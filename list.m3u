@@ -1,0 +1,837 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N4 Moldova" group-title="Mold", N4 Moldova
+#EXTGRP:Mold
+https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
+#EXTINF:-1 tvg-name="ТНТ Moldova" group-title="Mold", ТНТ Moldova
+#EXTGRP:Mold
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-name="Canal 2" group-title="Mold", Canal 2
+#EXTGRP:Mold
+http://91.230.214.75/LIVE/2/index.m3u8
+#EXTINF:-1 tvg-name="Canal 3" group-title="Mold", Canal 3
+#EXTGRP:Mold
+http://91.230.214.75/LIVE/3/2000.m3u8
+#EXTINF:-1 tvg-name="Moldova 1" group-title="Mold", Moldova 1
+#EXTGRP:Mold
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 tvg-name="Moldova 2" group-title="Mold", Moldova 2
+#EXTGRP:Mold
+http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
+#EXTINF:-1 tvg-name="Noroc TV" group-title="Mold", Noroc TV
+#EXTGRP:Mold
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1 tvg-name="Prime" group-title="Mold", Prime
+#EXTGRP:Mold
+http://91.230.214.75/LIVE/1/600.m3u8
+#EXTINF:-1 tvg-name="Primul în Moldova" group-title="Mold", Primul în Moldova
+#EXTGRP:Mold
+https://video.a-tv.md/live/primul.m3u8
+#EXTINF:-1 tvg-name="Publika TV" group-title="Mold", Publika TV
+#EXTGRP:Mold
+https://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 tvg-name="Vocea Basarabiei TV" group-title="Mold", Vocea Basarabiei TV
+#EXTGRP:Mold
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:-1 tvg-name="TV 6" group-title="Mold", TV 6
+#EXTGRP:Mold
+https://streamtvc.tk/ctv/stream_high/index.m3u8
+#EXTINF:-1 tvg-name="Tezaur" group-title="Mold", Tezaur
+#EXTGRP:Mold
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1 tvg-name="РТР-Планета (480p)" group-title="Mold", РТР-Планета (480p)
+#EXTGRP:Mold
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ Exclusiv TV (576p)" group-title="Mold", ТНТ Exclusiv TV (576p)
+#EXTGRP:Mold
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-name="ТНТ Moldova Exclusiv" group-title="Mold", ТНТ Moldova Exclusiv
+#EXTGRP:Mold
+http://212.0.215.106/THT/mpegts
+#EXTINF:-1 tvg-name="Current Time" group-title="Mold", Current Time
+#EXTGRP:Mold
+http://212.0.215.106/CurrentTime/mpegts
+#EXTINF:-1 tvg-name="EuroNews" group-title="Mold", EuroNews
+#EXTGRP:Mold
+http://212.0.215.106/Euronews/mpegts
+#EXTINF:-1 tvg-name="EuroNews RO" group-title="Mold", EuroNews RO
+#EXTGRP:Mold
+http://212.0.215.106/Euronews_Ro/mpegts
+#EXTINF:-1 tvg-name="PEH TB MOLDOVA" group-title="Mold", PEH TB MOLDOVA
+#EXTGRP:Mold
+http://212.0.215.106/PEHTB/mpegts
+#EXTINF:-1 tvg-name="ITV Moldova" group-title="Mold", ITV Moldova
+#EXTGRP:Mold
+http://212.0.215.106/ITV/mpegts
+#EXTINF:-1 tvg-name="JURNAL TV" group-title="Mold", JURNAL TV
+#EXTGRP:Mold
+http://212.0.215.106/JurnalTV/mpegts
+#EXTINF:-1 tvg-name="PRO TV CHISINAU" group-title="Mold", PRO TV CHISINAU
+#EXTGRP:Mold
+http://212.0.215.106/ProTV/mpegts
+#EXTINF:-1 tvg-name="TV8" group-title="Mold", TV8
+#EXTGRP:Mold
+http://212.0.215.106/TV8/mpegts
+#EXTINF:-1 tvg-name="Kanal D" group-title="Mold", Kanal D
+#EXTGRP:Mold
+http://212.0.215.106/KanalD/mpegts
+#EXTINF:-1 tvg-name="Prima TV" group-title="Mold", Prima TV
+#EXTGRP:Mold
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Pro TV (1080p)" group-title="Mold", Pro TV (1080p)
+#EXTGRP:Mold
+https://www.hlsrundle-stream-iptv.gq/api/hls/protv.m3u8
+#EXTINF:-1 tvg-name="TVR Cluj (720p)" group-title="Mold", TVR Cluj (720p)
+#EXTGRP:Mold
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+#EXTINF:-1 tvg-name="TVR Craiova (720p)" group-title="Mold", TVR Craiova (720p)
+#EXTGRP:Mold
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+#EXTINF:-1 tvg-name="TVR Iasi (720p)" group-title="Mold", TVR Iasi (720p)
+#EXTGRP:Mold
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+#EXTINF:-1 tvg-name="TVR International (720p)" group-title="Mold", TVR International (720p)
+#EXTGRP:Mold
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 tvg-name="TVR Targu-Mures (720p)" group-title="Mold", TVR Targu-Mures (720p)
+#EXTGRP:Mold
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+#EXTINF:-1 tvg-name="CTV" group-title="Mold", CTV
+#EXTGRP:Mold
+http://212.0.215.106/Cotidianul/mpegts
+#EXTINF:-1 tvg-name="Romania TV" group-title="Mold", Romania TV
+#EXTGRP:Mold
+http://212.0.215.106/RomaniaTV/mpegts
+#EXTINF:-1 tvg-name="Atomic TV (360p)" group-title="Mold", Atomic TV (360p)
+#EXTGRP:Mold
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-name="Digi 24" group-title="Mold", Digi 24
+#EXTGRP:Mold
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1 tvg-name="Intermedia TV (576p)" group-title="Mold", Intermedia TV (576p)
+#EXTGRP:Mold
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal D Romania (360p)" group-title="Mold", Kanal D Romania (360p)
+#EXTGRP:Mold
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-name="MoozDance (576p)" group-title="Mold", MoozDance (576p)
+#EXTGRP:Mold
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-name="MoozHits (576p)" group-title="Mold", MoozHits (576p)
+#EXTGRP:Mold
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-name="ZU TV" group-title="Mold", ZU TV
+#EXTGRP:Mold
+https://www.hlsrundle-stream-iptv.gq/api/hls/zutv.m3u8
+#EXTINF:-1 tvg-name="Kvartal TV" group-title="Mold", Kvartal TV
+#EXTGRP:Mold
+http://212.0.215.106/KvartalTV/mpegts
+#EXTINF:-1 tvg-name="PRO2" group-title="Mold", PRO2
+#EXTGRP:Mold
+http://212.0.215.106/PRO2/mpegts
+#EXTINF:-1 tvg-name="Gagauzia" group-title="Mold", Gagauzia
+#EXTGRP:Mold
+http://212.0.215.106/ATV/mpegts
+#EXTINF:-1 tvg-name="NTS Moldova" group-title="Mold", NTS Moldova
+#EXTGRP:Mold
+http://212.0.215.106/NTS/mpegts
+#EXTINF:-1 tvg-name="Пятый канал Moldova" group-title="Mold", Пятый канал Moldova
+#EXTGRP:Mold
+http://212.0.215.106/Canal5/mpegts
+#EXTINF:-1 tvg-name="TVC21" group-title="Mold", TVC21
+#EXTGRP:Mold
+http://212.0.215.106/TVC21/mpegts
+#EXTINF:-1 tvg-name="N4" group-title="Mold", N4
+#EXTGRP:Mold
+http://212.0.215.106/N4/mpegts
+#EXTINF:-1 tvg-name="CTC MEGA" group-title="Mold", CTC MEGA
+#EXTGRP:Mold
+http://212.0.215.106/STS/mpegts
+#EXTINF:-1 tvg-name="Soroca TV" group-title="Mold", Soroca TV
+#EXTGRP:Mold
+http://212.0.215.106/SorTV/mpegts
+#EXTINF:-1 tvg-name="Canal Regional" group-title="Mold", Canal Regional
+#EXTGRP:Mold
+http://212.0.215.106/Regional/mpegts
+#EXTINF:-1 tvg-name="OrizontTV" group-title="Mold", OrizontTV
+#EXTGRP:Mold
+http://212.0.215.106/OrizontTV/mpegts
+#EXTINF:-1 tvg-name="National TV Ro" group-title="Mold", National TV Ro
+#EXTGRP:Mold
+http://212.0.215.106/National/mpegts
+#EXTINF:-1 tvg-name="N24 Plus Ro" group-title="Mold", N24 Plus Ro
+#EXTGRP:Mold
+http://212.0.215.106/N24plus/mpegts
+#EXTINF:-1 tvg-name="Bucuresti TV" group-title="Mold", Bucuresti TV
+#EXTGRP:Mold
+http://212.0.215.106/BucurestiTV/mpegts
+#EXTINF:-1 tvg-name="AgroTV" group-title="Mold", AgroTV
+#EXTGRP:Mold
+http://212.0.215.106/AgroTV/mpegts
+#EXTINF:-1 tvg-name="Drochia" group-title="Mold", Drochia
+#EXTGRP:Mold
+http://212.0.215.106/Drochia/mpegts
+#EXTINF:-1 tvg-name="MediaTV" group-title="Mold", MediaTV
+#EXTGRP:Mold
+http://212.0.215.106/MediaTV/mpegts
+#EXTINF:-1 tvg-name="TVR Moldova" group-title="Mold", TVR Moldova
+#EXTGRP:Mold
+http://212.0.215.106/TVR/mpegts
+#EXTINF:-1 tvg-name="Axial TV" group-title="Mold", Axial TV
+#EXTGRP:Mold
+http://212.0.215.106/AxialTV/mpegts
+#EXTINF:-1 tvg-name="Familia Domashniy" group-title="Mold", Familia Domashniy
+#EXTGRP:Mold
+http://212.0.215.106/SET/mpegts
+#EXTINF:-1 tvg-name="Cinema 1" group-title="Mold", Cinema 1
+#EXTGRP:Mold
+http://212.0.215.106/cinema1/mpegts
+#EXTINF:-1 tvg-name="DTV" group-title="Mold", DTV
+#EXTGRP:Mold
+http://212.0.215.106/DTV/mpegts
+#EXTINF:-1 tvg-name="Gurinel" group-title="Mold", Gurinel
+#EXTGRP:Mold
+http://212.0.215.106/Gurinel/mpegts
+#EXTINF:-1 tvg-name="Minimax" group-title="Mold", Minimax
+#EXTGRP:Mold
+http://212.0.215.106/Minimax/mpegts
+#EXTINF:-1 tvg-name="Disney Ro" group-title="Mold", Disney Ro
+#EXTGRP:Mold
+http://212.0.215.106/DisneyChannel/mpegts
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Mold", Nickelodeon
+#EXTGRP:Mold
+http://212.0.215.106/Nick/mpegts
+#EXTINF:-1 tvg-name="Nick.HD" group-title="Mold", Nick.HD
+#EXTGRP:Mold
+http://212.0.215.106/Nick.HD/mpegts
+#EXTINF:-1 tvg-name="Мульт" group-title="Mold", Мульт
+#EXTGRP:Mold
+http://212.0.215.106/Mult/mpegts
+#EXTINF:-1 tvg-name="TraLaLa SD" group-title="Mold", TraLaLa SD
+#EXTGRP:Mold
+http://212.0.215.106/TraLaLa/mpegts
+
+
+
+
+#EXTINF:-1 tvg-name="Домашний" group-title="Развлекательные", Домашний
+#EXTGRP:Развлекательные
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 tvg-name="Первый HD" group-title="Развлекательные", Первый HD
+#EXTGRP:Развлекательные
+https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 tvg-name="Звезда HD" group-title="Развлекательные", Звезда HD
+#EXTGRP:Развлекательные
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="МИР HD" group-title="Развлекательные", МИР HD
+#EXTGRP:Развлекательные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="МИР Казахстан" group-title="Развлекательные", МИР Казахстан
+#EXTGRP:Развлекательные
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-name="МИР24 HD" group-title="Развлекательные", МИР24 HD
+#EXTGRP:Развлекательные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="НТВ HD" group-title="Развлекательные", НТВ HD
+#EXTGRP:Развлекательные
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Развлекательные", НТВ Стиль
+#EXTGRP:Развлекательные
+http://ntv-hls-orig.cdnvideo.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Новый Мир" group-title="Развлекательные", Новый Мир
+#EXTGRP:Развлекательные
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятница! HD" group-title="Развлекательные", Пятница! HD
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Развлекательные", Пятый канал
+#EXTGRP:Развлекательные
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 tvg-name="Рен ТВ" group-title="Развлекательные", Рен ТВ
+#EXTGRP:Развлекательные
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Развлекательные", Россия 1 HD
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Ros_HD.ts
+#EXTINF:-1 tvg-name="Россия 24" group-title="Развлекательные", Россия 24
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Ros_24.ts
+#EXTINF:-1 tvg-name="Россия К" group-title="Развлекательные", Россия К
+#EXTGRP:Развлекательные
+http://iptv.ktkru.ru:8006/index.m3u8
+#EXTINF:-1 tvg-name="Ростов-папа HD" group-title="Развлекательные", Ростов-папа HD
+#EXTGRP:Развлекательные
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="СТВ (Беларусь)" group-title="Развлекательные", СТВ (Беларусь)
+#EXTGRP:Развлекательные
+http://80.94.225.126:8080/STV/mono.m3u8
+#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные", СТС
+#EXTGRP:Развлекательные
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 tvg-name="СТС Love" group-title="Развлекательные", СТС Love
+#EXTGRP:Развлекательные
+https://flu.ttk.mx/STS_Love/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Свое ТВ HD" group-title="Развлекательные", Свое ТВ HD
+#EXTGRP:Развлекательные
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+#EXTINF:-1 tvg-name="Сочи 24 HD" group-title="Развлекательные", Сочи 24 HD
+#EXTGRP:Развлекательные
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Сургут 1 HD" group-title="Развлекательные", Сургут 1 HD
+#EXTGRP:Развлекательные
+http://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 tvg-name="ТВ3 HD" group-title="Развлекательные", ТВ3 HD
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Развлекательные", ТВЦ
+#EXTGRP:Развлекательные
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="Развлекательные", ТНТ HD
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/410338/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Развлекательные", ТНТ4
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="12 Канал (Омск)" group-title="Развлекательные", 12 Канал (Омск)
+#EXTGRP:Развлекательные
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="2x2" group-title="Развлекательные", 2x2
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="7 TV" group-title="Развлекательные", 7 TV
+#EXTGRP:Развлекательные
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 tvg-name="8 канал Владивосток" group-title="Развлекательные", 8 канал Владивосток
+#EXTGRP:Развлекательные
+https://livestream.8kanal.tv/hls/livestream_high.m3u8
+#EXTINF:-1 tvg-name="БелРос" group-title="Развлекательные", БелРос
+#EXTGRP:Развлекательные
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-name="Беларусь 24" group-title="Развлекательные", Беларусь 24
+#EXTGRP:Развлекательные
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-name="Известия ТВ HD" group-title="Развлекательные", Известия ТВ HD
+#EXTGRP:Развлекательные
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-name="К16 (Саров)" group-title="Развлекательные", К16 (Саров)
+#EXTGRP:Развлекательные
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-name="Колыма Плюс ТВ" group-title="Развлекательные", Колыма Плюс ТВ
+#EXTGRP:Развлекательные
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
+#EXTINF:-1 tvg-name="Компас ТВ" group-title="Развлекательные", Компас ТВ
+#EXTGRP:Развлекательные
+rtmp://89.107.113.89/live/kamensktv
+#EXTINF:-1 tvg-name="Между Net HD" group-title="Развлекательные", Между Net HD
+#EXTGRP:Развлекательные
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 tvg-name="Мой Дагестан HD" group-title="Развлекательные", Мой Дагестан HD
+#EXTGRP:Развлекательные
+http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
+#EXTINF:-1 tvg-name="Мордовия 24" group-title="Развлекательные", Мордовия 24
+#EXTGRP:Развлекательные
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 tvg-name="Москва Доверие" group-title="Развлекательные", Москва Доверие
+#EXTGRP:Развлекательные
+https://flu.ttk.mx/Doverie/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="РБК HD" group-title="Развлекательные", РБК HD
+#EXTGRP:Развлекательные
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-name="Радость Моя" group-title="Развлекательные", Радость Моя
+#EXTGRP:Развлекательные
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="Ретро" group-title="Развлекательные", Ретро
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Retro.ts
+#EXTINF:-1 tvg-name="Самара 24 HD" group-title="Развлекательные", Самара 24 HD
+#EXTGRP:Развлекательные
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Сампо ТВ" group-title="Развлекательные", Сампо ТВ
+#EXTGRP:Развлекательные
+http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+#EXTINF:-1 tvg-name="Саратов 24" group-title="Развлекательные", Саратов 24
+#EXTGRP:Развлекательные
+http://109.248.11.19:8081/web/c24/playlist.m3u8
+#EXTINF:-1 tvg-name="Сарафан" group-title="Развлекательные", Сарафан
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Sarafan.ts
+
+
+
+
+#EXTINF:-1 tvg-name="MMA TV HD" group-title="Спортивные", MMA TV HD
+#EXTGRP:Спортивные
+https://sc.id-tv.kz/M-1_34_35.m3u8
+#EXTINF:-1 tvg-name="Viasat Sport" group-title="Спортивные", Viasat Sport
+#EXTGRP:Спортивные
+https://sc.id-tv.kz/ViasatSport_34_35.m3u8
+#EXTINF:-1 tvg-name="Астрахань.Ru Sport HD" group-title="Спортивные", Астрахань.Ru Sport HD
+#EXTGRP:Спортивные
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Старт Триумф HD" group-title="Спортивные", Старт Триумф HD
+#EXTGRP:Спортивные
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:-1 tvg-name="Eurosport 1 RO" group-title="Спортивные", Eurosport 1 RO
+#EXTGRP:Спортивные
+http://212.0.215.106/Eurosport1/mpegts
+#EXTINF:-1 tvg-name="SETANTA SPORTS 1 HD" group-title="Спортивные", SETANTA SPORTS 1 HD
+#EXTGRP:Спортивные
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD" group-title="Спортивные", Setanta Sports 2 HD
+#EXTGRP:Спортивные
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="Спортивные", Eurosport 1 HD
+#EXTGRP:Спортивные
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
+#EXTINF:-1 tvg-name="Eurosport 2 HD" group-title="Спортивные", Eurosport 2 HD
+#EXTGRP:Спортивные
+https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1 tvg-name="Viasat Sport HD" group-title="Спортивные", Viasat Sport HD
+#EXTGRP:Спортивные
+http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Спортивный HD" group-title="Спортивные", Спортивный HD
+#EXTGRP:Спортивные
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Матч Премьер HD" group-title="Спортивные", Матч Премьер HD
+#EXTGRP:Спортивные
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Телеканал Футбол" group-title="Спортивные", Телеканал Футбол
+#EXTGRP:Спортивные
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="360 HD" group-title="Познавательные", 360 HD
+#EXTGRP:Познавательные
+https://flu.ttk.mx/360_HD/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="360 International" group-title="Познавательные", 360 International
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/360_34_35.m3u8
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Познавательные", Da Vinci
+#EXTGRP:Познавательные
+https://flu.ttk.mx/DaVinci/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Galaxy" group-title="Познавательные", Galaxy
+#EXTGRP:Познавательные
+https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="TV BRICS HD" group-title="Познавательные", TV BRICS HD
+#EXTGRP:Познавательные
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Terra HD" group-title="Познавательные", Terra HD
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Nat_geo_HD.ts
+#EXTINF:-1 tvg-name="Travel & Adventure HD" group-title="Познавательные", Travel & Adventure HD
+#EXTGRP:Познавательные
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat History" group-title="Познавательные", Viasat History
+#EXTGRP:Познавательные
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="Познавательные", Viasat Nature
+#EXTGRP:Познавательные
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Авто 24" group-title="Познавательные", Авто 24
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/Avto24_36_37.m3u8
+#EXTINF:-1 tvg-name="Домашние животные" group-title="Познавательные", Домашние животные
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Dom_jiv.ts
+#EXTINF:-1 tvg-name="Драйв" group-title="Познавательные", Драйв
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Drive.ts
+#EXTINF:-1 tvg-name="Загородная Жизнь" group-title="Познавательные", Загородная Жизнь
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/Zagorod_34_35.m3u8
+#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="Познавательные", Здоровое ТВ
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Zdorovoe.ts
+#EXTINF:-1 tvg-name="Зоопарк" group-title="Познавательные", Зоопарк
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/zoo.ts
+#EXTINF:-1 tvg-name="История" group-title="Познавательные", История
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Istoria.ts
+#EXTINF:-1 tvg-name="Министерство Идей" group-title="Познавательные", Министерство Идей
+#EXTGRP:Познавательные
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Моя Планета" group-title="Познавательные", Моя Планета
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Moya_pl.ts
+#EXTINF:-1 tvg-name="Наука" group-title="Познавательные", Наука
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Nauka.ts
+#EXTINF:-1 tvg-name="Охота и Рыбалка" group-title="Познавательные", Охота и Рыбалка
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Ohota_i_rib.ts
+#EXTINF:-1 tvg-name="Просвещение" group-title="Познавательные", Просвещение
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Психология" group-title="Познавательные", Психология
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Psih_21.ts
+#EXTINF:-1 tvg-name="Совершенно Секретно" group-title="Познавательные", Совершенно Секретно
+#EXTGRP:Познавательные
+http://live-sovsec.cdnvideo.ru/sovsec/sovsec_orig/playlist.m3u8
+#EXTINF:-1 tvg-name="Спас" group-title="Познавательные", Спас
+#EXTGRP:Познавательные
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Усадьба" group-title="Познавательные", Усадьба
+#EXTGRP:Познавательные
+http://tv.tuva.ru/usadba/index.m3u8
+#EXTINF:-1 tvg-name="Discovery HD" group-title="Познавательные", Discovery HD
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+#EXTINF:-1 tvg-name="Discovery Science HD" group-title="Познавательные", Discovery Science HD
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery HD" group-title="Познавательные", Investigation Discovery HD
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Познавательные", Animal Planet HD
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/animalplanethd
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Познавательные", Animal Planet
+#EXTGRP:Познавательные
+http://212.0.215.106/AnimalPl/mpegts
+#EXTINF:-1 tvg-name="EXPLORER" group-title="Познавательные", EXPLORER
+#EXTGRP:Познавательные
+http://212.0.215.106/Explorer/mpegts
+#EXTINF:-1 tvg-name="TLC" group-title="Познавательные", TLC
+#EXTGRP:Познавательные
+http://212.0.215.106/TLC/mpegts
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Познавательные", Discovery Channel
+#EXTGRP:Познавательные
+http://212.0.215.106/Discovery/mpegts
+#EXTINF:-1 tvg-name="DTX HD" group-title="Познавательные", DTX HD
+#EXTGRP:Познавательные
+http://212.0.215.106/DTX/mpegts
+#EXTINF:-1 tvg-name="TRAVEL" group-title="Познавательные", TRAVEL
+#EXTGRP:Познавательные
+http://212.0.215.106/Travel/mpegts
+#EXTINF:-1 tvg-name="National Geographic" group-title="Познавательные", National Geographic
+#EXTGRP:Познавательные
+http://212.0.215.106/NAT-GEO/mpegts
+
+
+
+
+#EXTINF:-1 tvg-name="Кино ТВ HD" group-title="Кино", Кино ТВ HD
+#EXTGRP:Кино
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+#EXTINF:-1 tvg-name="312" group-title="Кино", 312
+#EXTGRP:Кино
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-name="312 Kino" group-title="Кино", 312 Kino
+#EXTGRP:Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-name="43 канал HD" group-title="Кино", 43 канал HD
+#EXTGRP:Кино
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="6 ТВ Горловка" group-title="Кино", 6 ТВ Горловка
+#EXTGRP:Кино
+http://ott.inmart.tv:8081/223/index.m3u8
+#EXTINF:-1 tvg-name="8 Канал" group-title="Кино", 8 Канал
+#EXTGRP:Кино
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-name="8 Канал Европа" group-title="Кино", 8 Канал Европа
+#EXTGRP:Кино
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-name="8 Канал Новосибирск" group-title="Кино", 8 Канал Новосибирск
+#EXTGRP:Кино
+http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино", Amedia 1
+#EXTGRP:Кино
+https://sc.id-tv.kz/A1_34_35.m3u8
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино", Amedia 2
+#EXTGRP:Кино
+https://sc.id-tv.kz/A2_34_35.m3u8
+#EXTINF:-1 tvg-name="Cinema" group-title="Кино", Cinema
+#EXTGRP:Кино
+http://195.26.83.96:50001/1
+#EXTINF:-1 tvg-name="Cinemax TV KG" group-title="Кино", Cinemax TV KG
+#EXTGRP:Кино
+rtmp://77.235.18.154:1935/live/live.stream
+#EXTINF:-1 tvg-name="FAN" group-title="Кино", FAN
+#EXTGRP:Кино
+http://tv.tuva.ru/fan/index.m3u8
+#EXTINF:-1 tvg-name="Film Box" group-title="Кино", Film Box
+#EXTGRP:Кино
+http://tv.tuva.ru/film_box/index.m3u8
+#EXTINF:-1 tvg-name="Flix Snip" group-title="Кино", Flix Snip
+#EXTGRP:Кино
+https://sc.id-tv.kz/FlixSnip.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ" group-title="Кино", Кино ТВ
+#EXTGRP:Кино
+http://212.0.215.106/KinoTV/mpegts
+#EXTINF:-1 tvg-name="Киносемья" group-title="Кино", Киносемья
+#EXTGRP:Кино
+http://212.0.215.106/KinoSemya/mpegts
+#EXTINF:-1 tvg-name="Кинохит" group-title="Кино", Кинохит
+#EXTGRP:Кино
+http://212.0.215.106/Kinohit/mpegts
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="Кино", Кинокомедия
+#EXTGRP:Кино
+http://212.0.215.106/Comedia/mpegts
+#EXTINF:-1 tvg-name="TV 1000" group-title="Кино", TV 1000
+#EXTGRP:Кино
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 1000 Action" group-title="Кино", TV 1000 Action
+#EXTGRP:Кино
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 1000 Русское кино" group-title="Кино", TV 1000 Русское кино
+#EXTGRP:Кино
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="VIP Comedy" group-title="Кино", VIP Comedy
+#EXTGRP:Кино
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="VIP Megahit" group-title="Кино", VIP Megahit
+#EXTGRP:Кино
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="VIP Premiere" group-title="Кино", VIP Premiere
+#EXTGRP:Кино
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="VIP Serial" group-title="Кино", VIP Serial
+#EXTGRP:Кино
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Киносвидание" group-title="Кино", Киносвидание
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Киносемья" group-title="Кино", Киносемья
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/Kinosemia/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Кинохит" group-title="Кино", Кинохит
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Кинопремьера HD" group-title="Кино", Кинопремьера HD
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Кинопоказ" group-title="Кино", Кинопоказ
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Иллюзион +" group-title="Кино", Иллюзион +
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Дом Кино" group-title="Кино", Дом Кино
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Дом Кино" group-title="Кино", Дом Кино
+#EXTGRP:Кино
+http://78.25.155.47:1309/channel/DOM_kino.ts
+#EXTINF:-1 tvg-name="Еврокино" group-title="Кино", Еврокино
+#EXTGRP:Кино
+https://flu.ttk.mx/Evrokino/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="НТВ Право" group-title="Кино", НТВ Право
+#EXTGRP:Кино
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Кино", НТВ Сериал
+#EXTGRP:Кино
+http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Кино", НТВ Хит
+#EXTGRP:Кино
+http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="НТМ HD (Мордовия)" group-title="Кино", НТМ HD (Мордовия)
+#EXTGRP:Кино
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-name="Победа" group-title="Кино", Победа
+#EXTGRP:Кино
+https://flu.ttk.mx/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Поехали!" group-title="Кино", Поехали!
+#EXTGRP:Кино
+https://flu.ttk.mx/Poehali/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Русский Бестселлер" group-title="Кино", Русский Бестселлер
+#EXTGRP:Кино
+http://tv.tuva.ru/rusbestseller/index.m3u8
+#EXTINF:-1 tvg-name="Русский Детектив" group-title="Кино", Русский Детектив
+#EXTGRP:Кино
+http://78.25.155.47:1309/channel/rus_d.ts
+#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Кино", Русский Иллюзион
+#EXTGRP:Кино
+http://78.25.155.47:1309/channel/Rus_illuz.ts
+#EXTINF:-1 tvg-name="Русский Роман" group-title="Кино", Русский Роман
+#EXTGRP:Кино
+http://78.25.155.47:1309/channel/Rus_rom.ts
+#EXTINF:-1 tvg-name="Backus TV" group-title="Кино", Backus TV
+#EXTGRP:Кино
+https://playlist.wasd.tv/live/1626710/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Backus TV Dark" group-title="Кино", Backus TV Dark
+#EXTGRP:Кино
+https://playlist.wasd.tv/live/1626849/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Cinema" group-title="Кино", Star Cinema
+#EXTGRP:Кино
+http://212.0.215.106/StarCinema/mpegts
+#EXTINF:-1 tvg-name="Star Family" group-title="Кино", Star Family
+#EXTGRP:Кино
+http://212.0.215.106/StarFamily/mpegts
+#EXTINF:-1 tvg-name="FilmUaDrama" group-title="Кино", FilmUaDrama
+#EXTGRP:Кино
+http://212.0.215.106/FilmUaDrama/mpegts
+#EXTINF:-1 tvg-name="Fox" group-title="Кино", Fox
+#EXTGRP:Кино
+http://212.0.215.106/Fox/mpegts
+#EXTINF:-1 tvg-name="Fox Life" group-title="Кино", Fox Life
+#EXTGRP:Кино
+http://212.0.215.106/FoxLife/mpegts
+
+
+
+#EXTINF:-1 tvg-name="TV1 (KG)" group-title="Кино", TV1 (KG)
+#EXTGRP:Кино
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Trаsh" group-title="Кино", Trаsh
+#EXTGRP:Кино
+https://livetv.mylifeisgood.ml/channels/trash.m3u8
+#EXTINF:-1 tvg-name="XXI" group-title="Кино", XXI
+#EXTGRP:Кино
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Иллюзион+" group-title="Кино", Иллюзион+
+#EXTGRP:Кино
+http://78.25.155.47:1309/channel/Illuz_plus.ts
+#EXTINF:-1 tvg-name="Абаза ТВ" group-title="Кино", Абаза ТВ
+#EXTGRP:Кино
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-name="Аист ТВ" group-title="Кино", Аист ТВ
+#EXTGRP:Кино
+http://tv.streams.baikal-telecom.net/Aist/video.m3u8
+#EXTINF:-1 tvg-name="Арис 24" group-title="Кино", Арис 24
+#EXTGRP:Кино
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-name="ВТВ Беларусь" group-title="Кино", ВТВ Беларусь
+#EXTGRP:Кино
+http://86.57.244.99:8080/vtv/manifest.m3u8
+#EXTINF:-1 tvg-name="ЗА ТВ" group-title="Кино", ЗА ТВ
+#EXTGRP:Кино
+https://s7lbbydibgn.a.trbcdn.net/live/SSJqBtZ6jBWeWZOJ.m3u8
+#EXTINF:-1 tvg-name="КТК HD" group-title="Кино", КТК HD
+#EXTGRP:Кино
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
+#EXTINF:-1 tvg-name="Камчатка 1 HD" group-title="Кино", Камчатка 1 HD
+#EXTGRP:Кино
+http://77.82.82.244/kamchatka1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Красная линия ТВ" group-title="Кино", Красная линия ТВ
+#EXTGRP:Кино
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Краснодар ТВ [HD]" group-title="Кино", Краснодар ТВ [HD]
+#EXTGRP:Кино
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-name="Лен ТВ 24 HD" group-title="Кино", Лен ТВ 24 HD
+#EXTGRP:Кино
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-name="Липецкое Время" group-title="Кино", Липецкое Время
+#EXTGRP:Кино
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир Белогорья HD" group-title="Кино", Мир Белогорья HD
+#EXTGRP:Кино
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-name="Мосфильм" group-title="Кино", Мосфильм
+#EXTGRP:Кино
+https://flu.ttk.mx/Mosfilm/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Наши Города HD" group-title="Кино", Наши Города HD
+#EXTGRP:Кино
+https://kogalimtv.servicecdn.ru/streams/775_101/1080n/index.m3u8
+#EXTINF:-1 tvg-name="Ника TV (Калуга)" group-title="Кино", Ника TV (Калуга)
+#EXTGRP:Кино
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Новый Век HD" group-title="Кино", Новый Век HD
+#EXTGRP:Кино
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Обком ТВ" group-title="Кино", Обком ТВ
+#EXTGRP:Кино
+http://www.omsk-kprf.ru/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Оплот 2 HD" group-title="Кино", Оплот 2 HD
+#EXTGRP:Кино
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 tvg-name="ПРНК" group-title="Кино", ПРНК
+#EXTGRP:Кино
+http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
+#EXTINF:-1 tvg-name="Продвижение" group-title="Кино", Продвижение
+#EXTGRP:Кино
+http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Севастополь ТВ" group-title="Кино", Севастополь ТВ
+#EXTGRP:Кино
+http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kino Watch TV Доку" group-title="Кино", Kino Watch TV Доку
+#EXTGRP:Кино
+https://edge-01.kino.watch/docu/index.m3u8
+#EXTINF:-1 tvg-name="Kino Watch TV Свежаки" group-title="Кино", Kino Watch TV Свежаки
+#EXTGRP:Кино
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:-1 tvg-name="Kino Watch TV Ужастики" group-title="Кино", Kino Watch TV Ужастики
+#EXTGRP:Кино
+https://edge-01.kino.watch/horror/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="1HD Music TV" group-title="Музыка", 1HD Music TV
+#EXTGRP:Музыка
+http://live-1.otcnet.ru/onehdweb/index.m3u8
+#EXTINF:-1 tvg-name="Bridge TV" group-title="Музыка", Bridge TV
+#EXTGRP:Музыка
+https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Русский Хит" group-title="Музыка", Bridge TV Русский Хит
+#EXTGRP:Музыка
+https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Музыка", Europa Plus TV
+#EXTGRP:Музыка
+http://78.25.155.47:1309/channel/Evropa_plus.ts
+#EXTINF:-1 tvg-name="Music Box Gold" group-title="Музыка", Music Box Gold
+#EXTGRP:Музыка
+http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-name="Music Box Russian" group-title="Музыка", Music Box Russian
+#EXTGRP:Музыка
+http://musictv.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-name="RU TV HD" group-title="Музыка", RU TV HD
+#EXTGRP:Музыка
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-name="Муз ТВ" group-title="Музыка", Муз ТВ
+#EXTGRP:Музыка
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 tvg-name="Музыка Первого" group-title="Музыка", Музыка Первого
+#EXTGRP:Музыка
+https://flu.ttk.mx/Muzyka_pervogo/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Первый Музыкальный" group-title="Музыка", Первый Музыкальный
+#EXTGRP:Музыка
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-name="Первый Музыкальный HD" group-title="Музыка", Первый Музыкальный HD
+#EXTGRP:Музыка
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-name="ТНТ Music HD" group-title="Музыка", ТНТ Music HD
+#EXTGRP:Музыка
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Backus TV Music" group-title="Музыка", Backus TV Music
+#EXTGRP:Музыка
+https://playlist.wasd.tv/live/1626854/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ZonaM" group-title="Музыка", ZonaM
+#EXTGRP:Музыка
+http://212.0.215.106/ZonaM/mpegts
+#EXTINF:-1 tvg-name="Taraf TV" group-title="Музыка", Taraf TV
+#EXTGRP:Музыка
+http://212.0.215.106/TarafTV/mpegts
+#EXTINF:-1 tvg-name="Noroc TV" group-title="Музыка", Noroc TV
+#EXTGRP:Музыка
+http://212.0.215.106/NorocTV/mpegts
+#EXTINF:-1 tvg-name="Busuioc TV" group-title="Музыка", Busuioc TV
+#EXTGRP:Музыка
+http://212.0.215.106/Busuioc/mpegts
+#EXTINF:-1 tvg-name="StudioL" group-title="Музыка", StudioL
+#EXTGRP:Музыка
+http://212.0.215.106/StudioL/mpegts
+#EXTINF:-1 tvg-name="Favorit TV" group-title="Музыка", Favorit TV
+#EXTGRP:Музыка
+http://212.0.215.106/Favorit/mpegts
+#EXTINF:-1 tvg-name="Etno TV" group-title="Музыка", Etno TV
+#EXTGRP:Музыка
+http://212.0.215.106/EtnoTV/mpegts
+#EXTINF:-1 tvg-name="Ru TV Moldova" group-title="Музыка", Ru TV Moldova
+#EXTGRP:Музыка
+http://212.0.215.106/RuTV/mpegts
+#EXTINF:-1 tvg-name="U TV" group-title="Музыка", U TV
+#EXTGRP:Музыка
+http://212.0.215.106/UTV/mpegts
+#EXTINF:-1 tvg-name="THT Music" group-title="Музыка", THT Music
+#EXTGRP:Музыка
+http://212.0.215.106/THTMusic/mpegts
