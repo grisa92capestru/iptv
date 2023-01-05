@@ -492,6 +492,9 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" group-title="Познавательные", Animal Planet HD
 #EXTGRP:Познавательные
 https://livetv.mylifeisgood.ml/channels/animalplanethd
+#EXTINF:-1 tvg-name="HD Life" group-title="Познавательные", HD Life
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Познавательные", Animal Planet
 #EXTGRP:Познавательные
 http://212.0.215.106/AnimalPl/mpegts
@@ -513,6 +516,7 @@ http://212.0.215.106/Travel/mpegts
 #EXTINF:-1 tvg-name="National Geographic" group-title="Познавательные", National Geographic
 #EXTGRP:Познавательные
 http://212.0.215.106/NAT-GEO/mpegts
+
 
 
 
@@ -658,6 +662,12 @@ https://playlist.wasd.tv/live/1626710/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Backus TV Dark" group-title="Кино", Backus TV Dark
 #EXTGRP:Кино
 https://playlist.wasd.tv/live/1626849/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Феникс+Кино" group-title="Кино", Феникс+Кино
+#EXTGRP:Кино
+http://78.25.155.47:1309/channel/Feniks.ts
+#EXTINF:-1 tvg-name="Премиальное" group-title="Кино", Премиальное
+#EXTGRP:Кино
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Cinema" group-title="Кино", Star Cinema
 #EXTGRP:Кино
 http://212.0.215.106/StarCinema/mpegts
