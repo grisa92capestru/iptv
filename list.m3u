@@ -524,60 +524,6 @@ http://212.0.215.106/NAT-GEO/mpegts
 #EXTINF:-1 tvg-name="Кино ТВ HD" group-title="Кино", Кино ТВ HD
 #EXTGRP:Кино
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1 tvg-name="312" group-title="Кино", 312
-#EXTGRP:Кино
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-name="312 Kino" group-title="Кино", 312 Kino
-#EXTGRP:Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-name="43 канал HD" group-title="Кино", 43 канал HD
-#EXTGRP:Кино
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="6 ТВ Горловка" group-title="Кино", 6 ТВ Горловка
-#EXTGRP:Кино
-http://ott.inmart.tv:8081/223/index.m3u8
-#EXTINF:-1 tvg-name="8 Канал" group-title="Кино", 8 Канал
-#EXTGRP:Кино
-http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-name="8 Канал Европа" group-title="Кино", 8 Канал Европа
-#EXTGRP:Кино
-http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-name="8 Канал Новосибирск" group-title="Кино", 8 Канал Новосибирск
-#EXTGRP:Кино
-http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино", Amedia 1
-#EXTGRP:Кино
-https://sc.id-tv.kz/A1_34_35.m3u8
-#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино", Amedia 2
-#EXTGRP:Кино
-https://sc.id-tv.kz/A2_34_35.m3u8
-#EXTINF:-1 tvg-name="Cinema" group-title="Кино", Cinema
-#EXTGRP:Кино
-http://195.26.83.96:50001/1
-#EXTINF:-1 tvg-name="Cinemax TV KG" group-title="Кино", Cinemax TV KG
-#EXTGRP:Кино
-rtmp://77.235.18.154:1935/live/live.stream
-#EXTINF:-1 tvg-name="FAN" group-title="Кино", FAN
-#EXTGRP:Кино
-http://tv.tuva.ru/fan/index.m3u8
-#EXTINF:-1 tvg-name="Film Box" group-title="Кино", Film Box
-#EXTGRP:Кино
-http://tv.tuva.ru/film_box/index.m3u8
-#EXTINF:-1 tvg-name="Flix Snip" group-title="Кино", Flix Snip
-#EXTGRP:Кино
-https://sc.id-tv.kz/FlixSnip.m3u8
-#EXTINF:-1 tvg-name="Кино ТВ" group-title="Кино", Кино ТВ
-#EXTGRP:Кино
-http://212.0.215.106/KinoTV/mpegts
-#EXTINF:-1 tvg-name="Киносемья" group-title="Кино", Киносемья
-#EXTGRP:Кино
-http://212.0.215.106/KinoSemya/mpegts
-#EXTINF:-1 tvg-name="Кинохит" group-title="Кино", Кинохит
-#EXTGRP:Кино
-http://212.0.215.106/Kinohit/mpegts
-#EXTINF:-1 tvg-name="Кинокомедия" group-title="Кино", Кинокомедия
-#EXTGRP:Кино
-http://212.0.215.106/Comedia/mpegts
 #EXTINF:-1 tvg-name="TV 1000" group-title="Кино", TV 1000
 #EXTGRP:Кино
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
@@ -605,12 +551,48 @@ http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="Киносемья" group-title="Кино", Киносемья
 #EXTGRP:Кино
 http://flu.ttk.mx:9090/Kinosemia/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Кинохит" group-title="Кино", Кинохит
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="Кинопремьера HD" group-title="Кино", Кинопремьера HD
 #EXTGRP:Кино
 http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-name="Кинохит" group-title="Кино", Кинохит
+#EXTGRP:Кино
+http://212.0.215.106/Kinohit/mpegts
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="Кино", Кинокомедия
+#EXTGRP:Кино
+http://212.0.215.106/Comedia/mpegts
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино", Amedia 1
+#EXTGRP:Кино
+https://sc.id-tv.kz/A1_34_35.m3u8
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино", Amedia 2
+#EXTGRP:Кино
+https://sc.id-tv.kz/A2_34_35.m3u8
+#EXTINF:-1 tvg-name="Cinema" group-title="Кино", Cinema
+#EXTGRP:Кино
+http://195.26.83.96:50001/1
+#EXTINF:-1 tvg-name="Backus TV" group-title="Кино", Backus TV
+#EXTGRP:Кино
+https://playlist.wasd.tv/live/1626710/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Backus TV Dark" group-title="Кино", Backus TV Dark
+#EXTGRP:Кино
+https://playlist.wasd.tv/live/1626849/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kino Watch TV Доку" group-title="Кино", Kino Watch TV Доку
+#EXTGRP:Кино
+https://edge-01.kino.watch/docu/index.m3u8
+#EXTINF:-1 tvg-name="Kino Watch TV Свежаки" group-title="Кино", Kino Watch TV Свежаки
+#EXTGRP:Кино
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:-1 tvg-name="Kino Watch TV Ужастики" group-title="Кино", Kino Watch TV Ужастики
+#EXTGRP:Кино
+https://edge-01.kino.watch/horror/index.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="Кино", FAN
+#EXTGRP:Кино
+http://tv.tuva.ru/fan/index.m3u8
+#EXTINF:-1 tvg-name="Film Box" group-title="Кино", Film Box
+#EXTGRP:Кино
+http://tv.tuva.ru/film_box/index.m3u8
+#EXTINF:-1 tvg-name="Flix Snip" group-title="Кино", Flix Snip
+#EXTGRP:Кино
+https://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ" group-title="Кино", Кинопоказ
 #EXTGRP:Кино
 http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
@@ -656,18 +638,36 @@ http://78.25.155.47:1309/channel/Rus_illuz.ts
 #EXTINF:-1 tvg-name="Русский Роман" group-title="Кино", Русский Роман
 #EXTGRP:Кино
 http://78.25.155.47:1309/channel/Rus_rom.ts
-#EXTINF:-1 tvg-name="Backus TV" group-title="Кино", Backus TV
-#EXTGRP:Кино
-https://playlist.wasd.tv/live/1626710/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Backus TV Dark" group-title="Кино", Backus TV Dark
-#EXTGRP:Кино
-https://playlist.wasd.tv/live/1626849/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Феникс+Кино" group-title="Кино", Феникс+Кино
 #EXTGRP:Кино
 http://78.25.155.47:1309/channel/Feniks.ts
 #EXTINF:-1 tvg-name="Премиальное" group-title="Кино", Премиальное
 #EXTGRP:Кино
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="312" group-title="Кино", 312
+#EXTGRP:Кино
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-name="312 Kino" group-title="Кино", 312 Kino
+#EXTGRP:Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-name="43 канал HD" group-title="Кино", 43 канал HD
+#EXTGRP:Кино
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="6 ТВ Горловка" group-title="Кино", 6 ТВ Горловка
+#EXTGRP:Кино
+http://ott.inmart.tv:8081/223/index.m3u8
+#EXTINF:-1 tvg-name="8 Канал" group-title="Кино", 8 Канал
+#EXTGRP:Кино
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-name="8 Канал Европа" group-title="Кино", 8 Канал Европа
+#EXTGRP:Кино
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-name="8 Канал Новосибирск" group-title="Кино", 8 Канал Новосибирск
+#EXTGRP:Кино
+http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax TV KG" group-title="Кино", Cinemax TV KG
+#EXTGRP:Кино
+rtmp://77.235.18.154:1935/live/live.stream
 #EXTINF:-1 tvg-name="Star Cinema" group-title="Кино", Star Cinema
 #EXTGRP:Кино
 http://212.0.215.106/StarCinema/mpegts
@@ -761,15 +761,6 @@ http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Севастополь ТВ" group-title="Кино", Севастополь ТВ
 #EXTGRP:Кино
 http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-#EXTINF:-1 tvg-name="Kino Watch TV Доку" group-title="Кино", Kino Watch TV Доку
-#EXTGRP:Кино
-https://edge-01.kino.watch/docu/index.m3u8
-#EXTINF:-1 tvg-name="Kino Watch TV Свежаки" group-title="Кино", Kino Watch TV Свежаки
-#EXTGRP:Кино
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:-1 tvg-name="Kino Watch TV Ужастики" group-title="Кино", Kino Watch TV Ужастики
-#EXTGRP:Кино
-https://edge-01.kino.watch/horror/index.m3u8
 
 
 
