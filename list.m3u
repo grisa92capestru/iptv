@@ -38,9 +38,6 @@ https://streamtvc.tk/ctv/stream_high/index.m3u8
 #EXTINF:-1 tvg-name="Tezaur" group-title="Mold", Tezaur
 #EXTGRP:Mold
 http://tezaur.mlbfan.org/tezaur/index.m3u8
-#EXTINF:-1 tvg-name="РТР-Планета (480p)" group-title="Mold", РТР-Планета (480p)
-#EXTGRP:Mold
-http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ Exclusiv TV (576p)" group-title="Mold", ТНТ Exclusiv TV (576p)
 #EXTGRP:Mold
 http://89.28.25.122/hls/tnt_md.m3u8
@@ -74,27 +71,9 @@ http://212.0.215.106/TV8/mpegts
 #EXTINF:-1 tvg-name="Kanal D" group-title="Mold", Kanal D
 #EXTGRP:Mold
 http://212.0.215.106/KanalD/mpegts
-#EXTINF:-1 tvg-name="Prima TV" group-title="Mold", Prima TV
-#EXTGRP:Mold
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Pro TV (1080p)" group-title="Mold", Pro TV (1080p)
-#EXTGRP:Mold
-https://www.hlsrundle-stream-iptv.gq/api/hls/protv.m3u8
-#EXTINF:-1 tvg-name="TVR Cluj (720p)" group-title="Mold", TVR Cluj (720p)
-#EXTGRP:Mold
-https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
-#EXTINF:-1 tvg-name="TVR Craiova (720p)" group-title="Mold", TVR Craiova (720p)
-#EXTGRP:Mold
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
-#EXTINF:-1 tvg-name="TVR Iasi (720p)" group-title="Mold", TVR Iasi (720p)
-#EXTGRP:Mold
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
 #EXTINF:-1 tvg-name="TVR International (720p)" group-title="Mold", TVR International (720p)
 #EXTGRP:Mold
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:-1 tvg-name="TVR Targu-Mures (720p)" group-title="Mold", TVR Targu-Mures (720p)
-#EXTGRP:Mold
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
 #EXTINF:-1 tvg-name="CTV" group-title="Mold", CTV
 #EXTGRP:Mold
 http://212.0.215.106/Cotidianul/mpegts
@@ -113,15 +92,6 @@ http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal D Romania (360p)" group-title="Mold", Kanal D Romania (360p)
 #EXTGRP:Mold
 https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1 tvg-name="MoozDance (576p)" group-title="Mold", MoozDance (576p)
-#EXTGRP:Mold
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-name="MoozHits (576p)" group-title="Mold", MoozHits (576p)
-#EXTGRP:Mold
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-name="ZU TV" group-title="Mold", ZU TV
-#EXTGRP:Mold
-https://www.hlsrundle-stream-iptv.gq/api/hls/zutv.m3u8
 #EXTINF:-1 tvg-name="Kvartal TV" group-title="Mold", Kvartal TV
 #EXTGRP:Mold
 http://212.0.215.106/KvartalTV/mpegts
@@ -267,9 +237,6 @@ http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 tvg-name="СТС" group-title="Развлекательные", СТС
 #EXTGRP:Развлекательные
 http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 tvg-name="СТС Love" group-title="Развлекательные", СТС Love
-#EXTGRP:Развлекательные
-https://flu.ttk.mx/STS_Love/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="Свое ТВ HD" group-title="Развлекательные", Свое ТВ HD
 #EXTGRP:Развлекательные
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
@@ -308,9 +275,6 @@ https://livestream.8kanal.tv/hls/livestream_high.m3u8
 #EXTINF:-1 tvg-name="БелРос" group-title="Развлекательные", БелРос
 #EXTGRP:Развлекательные
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-name="Беларусь 24" group-title="Развлекательные", Беларусь 24
-#EXTGRP:Развлекательные
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 tvg-name="Известия ТВ HD" group-title="Развлекательные", Известия ТВ HD
 #EXTGRP:Развлекательные
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -332,9 +296,6 @@ http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
 #EXTINF:-1 tvg-name="Мордовия 24" group-title="Развлекательные", Мордовия 24
 #EXTGRP:Развлекательные
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 tvg-name="Москва Доверие" group-title="Развлекательные", Москва Доверие
-#EXTGRP:Развлекательные
-https://flu.ttk.mx/Doverie/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="РБК HD" group-title="Развлекательные", РБК HD
 #EXTGRP:Развлекательные
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
@@ -405,18 +366,9 @@ http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 
 
 
-#EXTINF:-1 tvg-name="360 HD" group-title="Познавательные", 360 HD
-#EXTGRP:Познавательные
-https://flu.ttk.mx/360_HD/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="360 International" group-title="Познавательные", 360 International
 #EXTGRP:Познавательные
 https://sc.id-tv.kz/360_34_35.m3u8
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Познавательные", Da Vinci
-#EXTGRP:Познавательные
-https://flu.ttk.mx/DaVinci/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Galaxy" group-title="Познавательные", Galaxy
-#EXTGRP:Познавательные
-https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="TV BRICS HD" group-title="Познавательные", TV BRICS HD
 #EXTGRP:Познавательные
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
@@ -545,15 +497,6 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-name="VIP Serial" group-title="Кино", VIP Serial
 #EXTGRP:Кино
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Киносвидание" group-title="Кино", Киносвидание
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Киносемья" group-title="Кино", Киносемья
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/Kinosemia/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Кинопремьера HD" group-title="Кино", Кинопремьера HD
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="Кинохит" group-title="Кино", Кинохит
 #EXTGRP:Кино
 http://212.0.215.106/Kinohit/mpegts
@@ -563,9 +506,6 @@ http://212.0.215.106/Comedia/mpegts
 #EXTINF:-1 tvg-name="Amedia 1" group-title="Кино", Amedia 1
 #EXTGRP:Кино
 https://sc.id-tv.kz/A1_34_35.m3u8
-#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино", Amedia 2
-#EXTGRP:Кино
-https://sc.id-tv.kz/A2_34_35.m3u8
 #EXTINF:-1 tvg-name="Cinema" group-title="Кино", Cinema
 #EXTGRP:Кино
 http://195.26.83.96:50001/1
@@ -593,21 +533,9 @@ http://tv.tuva.ru/film_box/index.m3u8
 #EXTINF:-1 tvg-name="Flix Snip" group-title="Кино", Flix Snip
 #EXTGRP:Кино
 https://sc.id-tv.kz/FlixSnip.m3u8
-#EXTINF:-1 tvg-name="Кинопоказ" group-title="Кино", Кинопоказ
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Иллюзион +" group-title="Кино", Иллюзион +
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Дом Кино" group-title="Кино", Дом Кино
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="Дом Кино" group-title="Кино", Дом Кино
 #EXTGRP:Кино
 http://78.25.155.47:1309/channel/DOM_kino.ts
-#EXTINF:-1 tvg-name="Еврокино" group-title="Кино", Еврокино
-#EXTGRP:Кино
-https://flu.ttk.mx/Evrokino/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="НТВ Право" group-title="Кино", НТВ Право
 #EXTGRP:Кино
 http://ntv-hls-orig.cdnvideo.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -620,15 +548,6 @@ http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="НТМ HD (Мордовия)" group-title="Кино", НТМ HD (Мордовия)
 #EXTGRP:Кино
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name="Победа" group-title="Кино", Победа
-#EXTGRP:Кино
-https://flu.ttk.mx/Pobeda/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Поехали!" group-title="Кино", Поехали!
-#EXTGRP:Кино
-https://flu.ttk.mx/Poehali/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Русский Бестселлер" group-title="Кино", Русский Бестселлер
-#EXTGRP:Кино
-http://tv.tuva.ru/rusbestseller/index.m3u8
 #EXTINF:-1 tvg-name="Русский Детектив" group-title="Кино", Русский Детектив
 #EXTGRP:Кино
 http://78.25.155.47:1309/channel/rus_d.ts
@@ -665,9 +584,6 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:-1 tvg-name="8 Канал Новосибирск" group-title="Кино", 8 Канал Новосибирск
 #EXTGRP:Кино
 http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Cinemax TV KG" group-title="Кино", Cinemax TV KG
-#EXTGRP:Кино
-rtmp://77.235.18.154:1935/live/live.stream
 #EXTINF:-1 tvg-name="Star Cinema" group-title="Кино", Star Cinema
 #EXTGRP:Кино
 http://212.0.215.106/StarCinema/mpegts
@@ -686,9 +602,6 @@ http://212.0.215.106/FoxLife/mpegts
 
 
 
-#EXTINF:-1 tvg-name="TV1 (KG)" group-title="Кино", TV1 (KG)
-#EXTGRP:Кино
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Trаsh" group-title="Кино", Trаsh
 #EXTGRP:Кино
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
@@ -707,12 +620,6 @@ http://tv.streams.baikal-telecom.net/Aist/video.m3u8
 #EXTINF:-1 tvg-name="Арис 24" group-title="Кино", Арис 24
 #EXTGRP:Кино
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-name="ВТВ Беларусь" group-title="Кино", ВТВ Беларусь
-#EXTGRP:Кино
-http://86.57.244.99:8080/vtv/manifest.m3u8
-#EXTINF:-1 tvg-name="ЗА ТВ" group-title="Кино", ЗА ТВ
-#EXTGRP:Кино
-https://s7lbbydibgn.a.trbcdn.net/live/SSJqBtZ6jBWeWZOJ.m3u8
 #EXTINF:-1 tvg-name="КТК HD" group-title="Кино", КТК HD
 #EXTGRP:Кино
 http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
@@ -734,9 +641,6 @@ http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 tvg-name="Мир Белогорья HD" group-title="Кино", Мир Белогорья HD
 #EXTGRP:Кино
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-name="Мосфильм" group-title="Кино", Мосфильм
-#EXTGRP:Кино
-https://flu.ttk.mx/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="Наши Города HD" group-title="Кино", Наши Города HD
 #EXTGRP:Кино
 https://kogalimtv.servicecdn.ru/streams/775_101/1080n/index.m3u8
@@ -755,9 +659,6 @@ http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1 tvg-name="ПРНК" group-title="Кино", ПРНК
 #EXTGRP:Кино
 http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
-#EXTINF:-1 tvg-name="Продвижение" group-title="Кино", Продвижение
-#EXTGRP:Кино
-http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Севастополь ТВ" group-title="Кино", Севастополь ТВ
 #EXTGRP:Кино
 http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
@@ -791,9 +692,6 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ" group-title="Музыка", Муз ТВ
 #EXTGRP:Музыка
 http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1 tvg-name="Музыка Первого" group-title="Музыка", Музыка Первого
-#EXTGRP:Музыка
-https://flu.ttk.mx/Muzyka_pervogo/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-name="Первый Музыкальный" group-title="Музыка", Первый Музыкальный
 #EXTGRP:Музыка
 http://rtmp.one.by:1200
