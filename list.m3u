@@ -1,736 +1,370 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="N4 Moldova" group-title="Mold", N4 Moldova
-#EXTGRP:Mold
-https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
-#EXTINF:-1 tvg-name="ТНТ Moldova" group-title="Mold", ТНТ Moldova
-#EXTGRP:Mold
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 tvg-name="Canal 2" group-title="Mold", Canal 2
-#EXTGRP:Mold
-http://91.230.214.75/LIVE/2/index.m3u8
-#EXTINF:-1 tvg-name="Canal 3" group-title="Mold", Canal 3
-#EXTGRP:Mold
-http://91.230.214.75/LIVE/3/2000.m3u8
-#EXTINF:-1 tvg-name="Moldova 1" group-title="Mold", Moldova 1
-#EXTGRP:Mold
-http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1 tvg-name="Moldova 2" group-title="Mold", Moldova 2
-#EXTGRP:Mold
-http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
-#EXTINF:-1 tvg-name="Noroc TV" group-title="Mold", Noroc TV
-#EXTGRP:Mold
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1 tvg-name="Prime" group-title="Mold", Prime
-#EXTGRP:Mold
-http://91.230.214.75/LIVE/1/600.m3u8
-#EXTINF:-1 tvg-name="Primul în Moldova" group-title="Mold", Primul în Moldova
-#EXTGRP:Mold
+#EXTM3U 
+#EXTINF: -1 tvg-id="1000", group-title="Actalizare", ACTUALIZAREA PACHETUL PREMIER 
+http://212.0.215.115/mpegts
+#EXTINF: -1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000" tvg-logo="https://trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="Generale", Moldova1
+http://212.0.215.115/Moldova1/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/165.png" group-title="TV-Channel", JurnalTV Astro
+http://212.0.215.115/JurnalTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/3.png" group-title="Encoder", Pro TV8
+http://212.0.215.115/ProTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/397.png" group-title="Moldtelecom", TV8_HD
+http://212.0.215.115/TV8/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/168.png" group-title="Generale", PublikaTV
+http://212.0.215.115/PublikaTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/dozhd.png" group-title="Ungrouped", TV Rain
+http://212.0.215.115/TV_Rain/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/136.png" group-title="Generale", Canal2
+http://212.0.215.115/Canal2/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/279.png" group-title="Generale", Prime
+http://212.0.215.115/Prime/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/4.png" group-title="Generale", TVR
+http://212.0.215.115/TVR/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/familia-domashniy.png" group-title="Generale", Familia
+http://212.0.215.115/SET/mpegts
+
+#EXTINF: -1 tvg-logo="https://trm.md/img/pages/2018/10/18/moldova-2/moldova-2.png" group-title="Generale", Moldova2
+http://212.0.215.115/Moldova2/mpegts
+
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/150.png" group-title="Generale", Canal 3
+http://212.0.215.115/Canal3/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/545.png" group-title="MTC", TНТ
+http://212.0.215.115/THT/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/539.png" group-title="Moldtelecom", PEH TV HD-SD [720x576@25.00f 3000000]
+http://212.0.215.115/DTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/471.png" group-title="FARA LICENȚĂ IN EMISIE", Primul in Moldova (Live Version)
 https://video.a-tv.md/live/primul.m3u8
-#EXTINF:-1 tvg-name="Publika TV" group-title="Mold", Publika TV
-#EXTGRP:Mold
-https://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:-1 tvg-name="Vocea Basarabiei TV" group-title="Mold", Vocea Basarabiei TV
-#EXTGRP:Mold
-http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
-#EXTINF:-1 tvg-name="TV 6" group-title="Mold", TV 6
-#EXTGRP:Mold
-https://streamtvc.tk/ctv/stream_high/index.m3u8
-#EXTINF:-1 tvg-name="Tezaur" group-title="Mold", Tezaur
-#EXTGRP:Mold
-http://tezaur.mlbfan.org/tezaur/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ Exclusiv TV (576p)" group-title="Mold", ТНТ Exclusiv TV (576p)
-#EXTGRP:Mold
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 tvg-name="ТНТ Moldova Exclusiv" group-title="Mold", ТНТ Moldova Exclusiv
-#EXTGRP:Mold
-http://212.0.215.106/THT/mpegts
-#EXTINF:-1 tvg-name="Current Time" group-title="Mold", Current Time
-#EXTGRP:Mold
-http://212.0.215.106/CurrentTime/mpegts
-#EXTINF:-1 tvg-name="EuroNews" group-title="Mold", EuroNews
-#EXTGRP:Mold
-http://212.0.215.106/Euronews/mpegts
-#EXTINF:-1 tvg-name="EuroNews RO" group-title="Mold", EuroNews RO
-#EXTGRP:Mold
-http://212.0.215.106/Euronews_Ro/mpegts
-#EXTINF:-1 tvg-name="PEH TB MOLDOVA" group-title="Mold", PEH TB MOLDOVA
-#EXTGRP:Mold
-http://212.0.215.106/PEHTB/mpegts
-#EXTINF:-1 tvg-name="ITV Moldova" group-title="Mold", ITV Moldova
-#EXTGRP:Mold
-http://212.0.215.106/ITV/mpegts
-#EXTINF:-1 tvg-name="JURNAL TV" group-title="Mold", JURNAL TV
-#EXTGRP:Mold
-http://212.0.215.106/JurnalTV/mpegts
-#EXTINF:-1 tvg-name="PRO TV CHISINAU" group-title="Mold", PRO TV CHISINAU
-#EXTGRP:Mold
-http://212.0.215.106/ProTV/mpegts
-#EXTINF:-1 tvg-name="TV8" group-title="Mold", TV8
-#EXTGRP:Mold
-http://212.0.215.106/TV8/mpegts
-#EXTINF:-1 tvg-name="Kanal D" group-title="Mold", Kanal D
-#EXTGRP:Mold
-http://212.0.215.106/KanalD/mpegts
-#EXTINF:-1 tvg-name="TVR International (720p)" group-title="Mold", TVR International (720p)
-#EXTGRP:Mold
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:-1 tvg-name="CTV" group-title="Mold", CTV
-#EXTGRP:Mold
-http://212.0.215.106/Cotidianul/mpegts
-#EXTINF:-1 tvg-name="Romania TV" group-title="Mold", Romania TV
-#EXTGRP:Mold
-http://212.0.215.106/RomaniaTV/mpegts
-#EXTINF:-1 tvg-name="Atomic TV (360p)" group-title="Mold", Atomic TV (360p)
-#EXTGRP:Mold
-https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 tvg-name="Digi 24" group-title="Mold", Digi 24
-#EXTGRP:Mold
-https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
-#EXTINF:-1 tvg-name="Intermedia TV (576p)" group-title="Mold", Intermedia TV (576p)
-#EXTGRP:Mold
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal D Romania (360p)" group-title="Mold", Kanal D Romania (360p)
-#EXTGRP:Mold
-https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1 tvg-name="Kvartal TV" group-title="Mold", Kvartal TV
-#EXTGRP:Mold
-http://212.0.215.106/KvartalTV/mpegts
-#EXTINF:-1 tvg-name="PRO2" group-title="Mold", PRO2
-#EXTGRP:Mold
-http://212.0.215.106/PRO2/mpegts
-#EXTINF:-1 tvg-name="Gagauzia" group-title="Mold", Gagauzia
-#EXTGRP:Mold
-http://212.0.215.106/ATV/mpegts
-#EXTINF:-1 tvg-name="NTS Moldova" group-title="Mold", NTS Moldova
-#EXTGRP:Mold
-http://212.0.215.106/NTS/mpegts
-#EXTINF:-1 tvg-name="Пятый канал Moldova" group-title="Mold", Пятый канал Moldova
-#EXTGRP:Mold
-http://212.0.215.106/Canal5/mpegts
-#EXTINF:-1 tvg-name="TVC21" group-title="Mold", TVC21
-#EXTGRP:Mold
-http://212.0.215.106/TVC21/mpegts
-#EXTINF:-1 tvg-name="N4" group-title="Mold", N4
-#EXTGRP:Mold
-http://212.0.215.106/N4/mpegts
-#EXTINF:-1 tvg-name="CTC MEGA" group-title="Mold", CTC MEGA
-#EXTGRP:Mold
-http://212.0.215.106/STS/mpegts
-#EXTINF:-1 tvg-name="Soroca TV" group-title="Mold", Soroca TV
-#EXTGRP:Mold
-http://212.0.215.106/SorTV/mpegts
-#EXTINF:-1 tvg-name="Canal Regional" group-title="Mold", Canal Regional
-#EXTGRP:Mold
-http://212.0.215.106/Regional/mpegts
-#EXTINF:-1 tvg-name="OrizontTV" group-title="Mold", OrizontTV
-#EXTGRP:Mold
-http://212.0.215.106/OrizontTV/mpegts
-#EXTINF:-1 tvg-name="National TV Ro" group-title="Mold", National TV Ro
-#EXTGRP:Mold
-http://212.0.215.106/National/mpegts
-#EXTINF:-1 tvg-name="N24 Plus Ro" group-title="Mold", N24 Plus Ro
-#EXTGRP:Mold
-http://212.0.215.106/N24plus/mpegts
-#EXTINF:-1 tvg-name="Bucuresti TV" group-title="Mold", Bucuresti TV
-#EXTGRP:Mold
-http://212.0.215.106/BucurestiTV/mpegts
-#EXTINF:-1 tvg-name="AgroTV" group-title="Mold", AgroTV
-#EXTGRP:Mold
-http://212.0.215.106/AgroTV/mpegts
-#EXTINF:-1 tvg-name="Drochia" group-title="Mold", Drochia
-#EXTGRP:Mold
-http://212.0.215.106/Drochia/mpegts
-#EXTINF:-1 tvg-name="MediaTV" group-title="Mold", MediaTV
-#EXTGRP:Mold
-http://212.0.215.106/MediaTV/mpegts
-#EXTINF:-1 tvg-name="TVR Moldova" group-title="Mold", TVR Moldova
-#EXTGRP:Mold
-http://212.0.215.106/TVR/mpegts
-#EXTINF:-1 tvg-name="Axial TV" group-title="Mold", Axial TV
-#EXTGRP:Mold
-http://212.0.215.106/AxialTV/mpegts
-#EXTINF:-1 tvg-name="Familia Domashniy" group-title="Mold", Familia Domashniy
-#EXTGRP:Mold
-http://212.0.215.106/SET/mpegts
-#EXTINF:-1 tvg-name="Cinema 1" group-title="Mold", Cinema 1
-#EXTGRP:Mold
-http://212.0.215.106/cinema1/mpegts
-#EXTINF:-1 tvg-name="DTV" group-title="Mold", DTV
-#EXTGRP:Mold
-http://212.0.215.106/DTV/mpegts
-#EXTINF:-1 tvg-name="Gurinel" group-title="Mold", Gurinel
-#EXTGRP:Mold
-http://212.0.215.106/Gurinel/mpegts
-#EXTINF:-1 tvg-name="Minimax" group-title="Mold", Minimax
-#EXTGRP:Mold
-http://212.0.215.106/Minimax/mpegts
-#EXTINF:-1 tvg-name="Disney Ro" group-title="Mold", Disney Ro
-#EXTGRP:Mold
-http://212.0.215.106/DisneyChannel/mpegts
-#EXTINF:-1 tvg-name="Nickelodeon" group-title="Mold", Nickelodeon
-#EXTGRP:Mold
-http://212.0.215.106/Nick/mpegts
-#EXTINF:-1 tvg-name="Nick.HD" group-title="Mold", Nick.HD
-#EXTGRP:Mold
-http://212.0.215.106/Nick.HD/mpegts
-#EXTINF:-1 tvg-name="Мульт" group-title="Mold", Мульт
-#EXTGRP:Mold
-http://212.0.215.106/Mult/mpegts
-#EXTINF:-1 tvg-name="TraLaLa SD" group-title="Mold", TraLaLa SD
-#EXTGRP:Mold
-http://212.0.215.106/TraLaLa/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/257.png" group-title="COSMONOVA BROADCAST LLC", FREEDOM (Suspendat emisie - Primul In Moldova)
+http://212.0.215.115/UATV/mpegts
 
 
+#EXTINF: -1 tvg-logo="https://picon.ml/1plus1.png" group-title="1plus1 Media", 1+1 Marafon (Suspendat Emisie - HTB Moldova)
+http://212.0.215.115/1+1/mpegts
 
 
-#EXTINF:-1 tvg-name="Домашний" group-title="Развлекательные", Домашний
-#EXTGRP:Развлекательные
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1 tvg-name="Первый HD" group-title="Развлекательные", Первый HD
-#EXTGRP:Развлекательные
-https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-name="Звезда HD" group-title="Развлекательные", Звезда HD
-#EXTGRP:Развлекательные
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="МИР HD" group-title="Развлекательные", МИР HD
-#EXTGRP:Развлекательные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="МИР Казахстан" group-title="Развлекательные", МИР Казахстан
-#EXTGRP:Развлекательные
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-name="МИР24 HD" group-title="Развлекательные", МИР24 HD
-#EXTGRP:Развлекательные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ HD" group-title="Развлекательные", НТВ HD
-#EXTGRP:Развлекательные
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Развлекательные", НТВ Стиль
-#EXTGRP:Развлекательные
-http://ntv-hls-orig.cdnvideo.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Новый Мир" group-title="Развлекательные", Новый Мир
-#EXTGRP:Развлекательные
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 tvg-name="Пятница! HD" group-title="Развлекательные", Пятница! HD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Пятый канал" group-title="Развлекательные", Пятый канал
-#EXTGRP:Развлекательные
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1 tvg-name="Рен ТВ" group-title="Развлекательные", Рен ТВ
-#EXTGRP:Развлекательные
-http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Развлекательные", Россия 1 HD
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Ros_HD.ts
-#EXTINF:-1 tvg-name="Россия 24" group-title="Развлекательные", Россия 24
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Ros_24.ts
-#EXTINF:-1 tvg-name="Россия К" group-title="Развлекательные", Россия К
-#EXTGRP:Развлекательные
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1 tvg-name="Ростов-папа HD" group-title="Развлекательные", Ростов-папа HD
-#EXTGRP:Развлекательные
-http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="СТВ (Беларусь)" group-title="Развлекательные", СТВ (Беларусь)
-#EXTGRP:Развлекательные
-http://80.94.225.126:8080/STV/mono.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные", СТС
-#EXTGRP:Развлекательные
-http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 tvg-name="Свое ТВ HD" group-title="Развлекательные", Свое ТВ HD
-#EXTGRP:Развлекательные
-http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:-1 tvg-name="Сочи 24 HD" group-title="Развлекательные", Сочи 24 HD
-#EXTGRP:Развлекательные
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Сургут 1 HD" group-title="Развлекательные", Сургут 1 HD
-#EXTGRP:Развлекательные
-http://sitv.ru/hls/stv.m3u8
-#EXTINF:-1 tvg-name="ТВ3 HD" group-title="Развлекательные", ТВ3 HD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ТВЦ" group-title="Развлекательные", ТВЦ
-#EXTGRP:Развлекательные
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ HD" group-title="Развлекательные", ТНТ HD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/410338/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ4" group-title="Развлекательные", ТНТ4
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://picon.ml/1plus1.png" group-title="1plus1 Media", TV5 MONDE EUROPE
+http://212.0.215.115/TV5_Monde/mpegts
+#EXTINF: -1 tvg-logo="https://iptvz.cf/espreso-tv.png" group-title="Ungrouped", Espresso TV (Suspendat Emisie - RTR Moldova)
+http://212.0.215.115/EspresoTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/268.png" group-title="DV Crypt", ITV
+http://212.0.215.115/ITV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/25.png" group-title="Generale", N4
+http://212.0.215.115/N4/mpegts
+ 
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/20.png" group-title="Generale", Mega TV
+http://212.0.215.115/STS/mpegts
+ 
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/538.png" group-title="Moldtelecom", Cinema1HD-SD [720x576@25.00f 3000000]
+http://212.0.215.115/cinema1/mpegts
+ 
+
+ 
+
+#EXTINF: -1 tvg-logo="https://cdnedge.starnet.md/media/grid/158fe133-1d0d-488c-8a55-c61e9239d0db.png" group-title="MTC", GRT_SD
+http://212.0.215.115/GRT/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/19.png" group-title="Generale", GLOBAL 24
+http://212.0.215.115/PEHTB/mpegts
+ 
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/473.png" group-title="Generale", Canal 5
+http://212.0.215.115/Canal5/mpegts
+ 
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/256.png" group-title="FFmpeg", AgroTV
+http://212.0.215.115/AgroTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/kanal-d-hd.png" group-title="GMG Production", Kanal D
+http://212.0.215.115/KanalD/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/26.png" group-title="MTC", TVC 21
+http://212.0.215.115/TVC21/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/327.png" group-title="DVL", 10TVSD
+http://212.0.215.115/10TV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/250.png" group-title="Generale", Vocea Bas
+http://212.0.215.115/VoceaBas/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/525.png" group-title="Generale", R Live TV
+http://212.0.215.115/R_Live_TV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/597.png" group-title="DVB", Axial SD
+http://212.0.215.115/AxialTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://cdnedge.starnet.md/media/attachments/cfe7c832-2c34-48b3-85c8-e47d55bc3767.png" group-title="MTC", CTV_SD
+http://212.0.215.115/Cotidianul/mpegts
+#EXTINF:1, Cotidianul TV - CTV / Prima TV
+http://212.0.217.42/live/disk1/CotidianTV-CTV_35_AR2/SA/CotidianTV-CTV_35_AR2.m3u8
+
+#EXTINF: -1 tvg-logo="https://cdnedge.starnet.md/media/attachments/99539e95-2788-4bed-9713-0a81c0fd5b30.png" group-title="TELEIP", Orizont SD
+http://212.0.215.115/OrizontTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/588.png" group-title="Moldtelecom", Privesc EU HD/ SD [720x576@25.00f 3700000]
+http://212.0.215.115/Privesc.eu/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/kino-tv.png" group-title="Filme și Seriale", KINO TV
+http://212.0.215.115/KinoTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/kinoxit.png" group-title="HTB+", КИНОХИТ
+http://212.0.215.115/Kinohit/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/kinosemia.png" group-title="HTB+", КИНОСЕМЬЯ
+http://212.0.215.115/KinoSemya/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/tv1000.png" group-title="HTB+", viju TV1000
+http://212.0.215.115/TV1000/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/tv1000-action.png  group-title="HTB+", viju TV1000 action
+http://212.0.215.115/TV1000Act/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/tv1000-russkoe-kino.png" group-title="Action Development", viju TV 1000 русское
+http://212.0.215.115/TV1000Rk/mpegts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Acasa_2022_flat.png" group-title="ProTV", ACASA
+http://212.0.215.115/PRO2/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/23.png" group-title="Filme și Seriale", NationalTV
+http://212.0.215.115/National/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/kinokomedia.png" group-title="FFmpeg", КИНОКОМЕДИЯ
+http://212.0.215.115/Comedia/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/indijskoe-kino.png" group-title="FFmpeg", ИНДИЙСКОЕ КИНО
+http://212.0.215.115/IndiaTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/fox.png" group-title="FFmpeg", Fox CIS
+http://212.0.215.115/Fox/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/foxlife.png" group-title="GeoTelecom", Regional FOX LIFE SD
+http://212.0.215.115/FoxLife/mpegts
+ 
+#EXTINF: -1 tvg-logo="http://www.frocus.net/images/logotv/premiera-tv-md-21.jpg" group-title="Filme și Seriale", Star Cinema (Premiera TV)
+http://212.0.215.115/StarCinema/mpegts
+ 
+#EXTINF: -1 tvg-logo="http://www.frocus.net/images/logotv/next-tv-md-21.jpg" group-title="Filme și Seriale", Star Family (Next TV)
+http://212.0.215.115/StarFamily/mpegts
+#EXTINF:1,StarFamily SD
+http://212.0.217.42/live/disk1/StarFamily_117_AR2/SA/StarFamily_117_AR2.m3u8
+#EXTINF: -1 tvg-logo="https://picon.ml/muzhskoe-kino.png" group-title="Filme și Seriale", Мужское Кино
+http://212.0.215.115/Mujskoe_kino/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/filmua-drama.png" group-title="GMG_Production", FILM_UA_DRAMA
+http://212.0.215.115/FilmUaDrama/mpegts
 
 
-#EXTINF:-1 tvg-name="12 Канал (Омск)" group-title="Развлекательные", 12 Канал (Омск)
-#EXTGRP:Развлекательные
-http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-name="2x2" group-title="Развлекательные", 2x2
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="7 TV" group-title="Развлекательные", 7 TV
-#EXTGRP:Развлекательные
-http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 tvg-name="8 канал Владивосток" group-title="Развлекательные", 8 канал Владивосток
-#EXTGRP:Развлекательные
-https://livestream.8kanal.tv/hls/livestream_high.m3u8
-#EXTINF:-1 tvg-name="БелРос" group-title="Развлекательные", БелРос
-#EXTGRP:Развлекательные
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-name="Известия ТВ HD" group-title="Развлекательные", Известия ТВ HD
-#EXTGRP:Развлекательные
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-name="К16 (Саров)" group-title="Развлекательные", К16 (Саров)
-#EXTGRP:Развлекательные
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-name="Колыма Плюс ТВ" group-title="Развлекательные", Колыма Плюс ТВ
-#EXTGRP:Развлекательные
-https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
-#EXTINF:-1 tvg-name="Компас ТВ" group-title="Развлекательные", Компас ТВ
-#EXTGRP:Развлекательные
-rtmp://89.107.113.89/live/kamensktv
-#EXTINF:-1 tvg-name="Между Net HD" group-title="Развлекательные", Между Net HD
-#EXTGRP:Развлекательные
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 tvg-name="Мой Дагестан HD" group-title="Развлекательные", Мой Дагестан HD
-#EXTGRP:Развлекательные
-http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
-#EXTINF:-1 tvg-name="Мордовия 24" group-title="Развлекательные", Мордовия 24
-#EXTGRP:Развлекательные
-https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 tvg-name="РБК HD" group-title="Развлекательные", РБК HD
-#EXTGRP:Развлекательные
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 tvg-name="Радость Моя" group-title="Развлекательные", Радость Моя
-#EXTGRP:Развлекательные
-http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-name="Ретро" group-title="Развлекательные", Ретро
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Retro.ts
-#EXTINF:-1 tvg-name="Самара 24 HD" group-title="Развлекательные", Самара 24 HD
-#EXTGRP:Развлекательные
-https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="Сампо ТВ" group-title="Развлекательные", Сампо ТВ
-#EXTGRP:Развлекательные
-http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
-#EXTINF:-1 tvg-name="Саратов 24" group-title="Развлекательные", Саратов 24
-#EXTGRP:Развлекательные
-http://109.248.11.19:8081/web/c24/playlist.m3u8
-#EXTINF:-1 tvg-name="Сарафан" group-title="Развлекательные", Сарафан
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Sarafan.ts
+#EXTINF: -1 tvg-logo="https://minimaxcdn.azureedge.net/wp-content/uploads/logo_ro.png" group-title="M7", Minimax Ro
+http://212.0.215.115/Minimax/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/271.png" group-title="TV-Channel", GurinelTV
+http://212.0.215.115/Gurinel/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/477.png" group-title="Moldtelecom", Mult
+http://212.0.215.115/Mult/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/nickelodeon.png" group-title="MTV Networks Europe", Nickelodeon Europe
+http://212.0.215.115/Nick/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/nickelodeon.png" group-title="MTV Networks Europe", Nick.HD
+http://212.0.215.115/Nick.HD/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/disney-en.png" group-title="A1 Broadcasting", Disney Channel Romania
+http://212.0.215.115/DisneyChannel/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/cartoon-network.png" group-title="Ungrouped", CartoonTCM (test)
+http://212.0.215.115/CartoonTCM/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://tv.tralala.ro/assets/images/general/logo-tralala-tv-center.png" group-title="NXNET Broadcast", TraLaLa SD
+http://212.0.215.115/TraLaLa/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/eurosport1-cee.png" group-title="CANAL+", Eurosport 1 Int
+http://212.0.215.115/Eurosport1/mpegts
+#EXTINF: -1 tvg-logo="https://fmf.md/cdn/news/7398/1%20wesport-blue%20full%20(2)-7398-1683287636.png" group-title="CANAL+", WE SPORT
+http://212.0.215.115/WE_SPORT/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/setanta-sports1.png" group-title="Moldtelecom", Setanta Int 1 HD/SD [720x576@25.00f 3700000]
+http://212.0.215.115/Setanta/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/national-geographic.png" group-title="-", National Geographic
+http://212.0.215.115/NAT-GEO/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/discovery-channel.png" group-title="Discovery", Discovery Central Europe HD
+http://212.0.215.115/Discovery/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/animal-planet.png" group-title="FFmpeg", Animal Planet Europe
+http://212.0.215.115/AnimalPl/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.pp.ua/big-planet.png" group-title="FFmpeg", BIG PLANET SD
+http://212.0.215.115/Big_Planet/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.pp.ua/history.png" group-title="FFmpeg", HISTORY SD
+http://212.0.215.115/History_Channel/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/dtx.png" group-title="Discovery", Discovery Turbo Xtra HD
+http://212.0.215.115/DTX/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/viasat-explore.png" group-title="HTB+", viju Explore
+http://212.0.215.115/Explorer/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/travel-adventure.png" group-title="RSCC", Travel+Adventure
+http://212.0.215.115/Travel/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/14.png" group-title="iNES Group", Travel Mix HD
+http://212.0.215.115/TravelMix/mpegts
+ 
+#EXTINF: -1 tvg-logo="data:image/jpeg;base64,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" group-title="Ungrouped", Info Moldtelecom
+http://212.0.215.115/Cinethronix/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/tlc.png" group-title="Discovery", TLC Pan Regional SD
+http://212.0.215.115/TLC/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/kvartal-tv.png" group-title="1plus1 Media", Kvartal TV
+http://212.0.215.115/KvartalTV/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/577.png" group-title="1plus1 Media", GN TV SD
+http://212.0.215.115/GN_TV/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/579.png" group-title="1plus1 Media", Legal TV SD
+http://212.0.215.115/Legal_TV/mpegts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Trinitas_TV_%282018%29.svg/586px-Logo_Trinitas_TV_%282018%29.svg.png?20180401083433" group-title="GLOBECAST", Trinitas TV HD
+http://212.0.215.115/TrinitasTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://cdn6.aptoide.com/imgs/6/8/6/6866a33b357164dc4ec6e8dbb4de5fc2_icon.png" group-title="DigiTV", SperantaTV
+http://212.0.215.115/SperantaTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/574.png" group-title="FFmpeg", Alfa Omega TV
+http://212.0.215.115/AlfaOmega/mpegts
+
+#EXTINF: -1 tvg-logo="https://picon.ml/cnl-eu.png" group-title="Eutelsat", CNL
+http://212.0.215.115/CNL/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/soyuz.png" group-title="TricolorTV", Союз
+http://212.0.215.115/Soiuz/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/euronews.png" group-title="GLOBECAST", Euronews Russian
+http://212.0.215.115/Euronews/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/euronews.png" group-title="GLOBECAST", Euronews Romania
+http://212.0.215.115/Euronews_Ro/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/euronews.png" group-title="GLOBECAST", Euronews English
+http://212.0.215.115/Euronews_En/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/84.png" group-title="Ungrouped", N24 Plus
+http://212.0.215.115/N24plus/mpegts
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/204.png" group-title="Romania TV", Romania TV
+http://212.0.215.115/Romania_TV/mpegts
+
+#EXTINF: -1 tvg-logo="https://i.mycdn.me/i?r=AyENid1PUfRjbfTS8I1wumQ-PUPPmz1xcYIMHMnduUO_kg" group-title="MIXMONTAN", Kanal D 2
+http://212.0.215.115/BucurestiTV/mpegts
+
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/592.png" group-title="MIXMONTAN", Tele Moldova+
+http://212.0.215.115/TeleMoldova+/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/france24.png" group-title="GLOBECAST", France 24 SD (en Francais)
+http://212.0.215.115/France24fra/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/france24.png" group-title="GLOBECAST", France 24 SD (in English)
+http://212.0.215.115/France24eng/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/deutsche-welle-de.png" group-title="Ungrouped", DW Deutsch
+http://212.0.215.115/DWger/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/deutsche-welle-eu.png" group-title="GLOBECAST", DW English HD
+http://212.0.215.115/DWeng/mpegts
+ 
+
+#EXTINF: -1 tvg-logo="https://picon.ml/nastoiaschee-vremia.png" group-title="Ungrouped", Current Time
+http://212.0.215.115/CurrentTime/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/kazakh-tv.png" group-title="iKO Media Group", Jibek Joly TV 
+http://212.0.215.115/KazakhTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/noroc-tv-md.png" group-title="MTC", NorocTV
+http://212.0.215.115/NorocTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/153.png" group-title="DigiTV", U tv
+http://212.0.215.115/UTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://picon.ml/zona-m.png" group-title="DVB", Zona M
+http://212.0.215.115/ZonaM/mpegts
+ 
 
 
+#EXTINF: -1 tvg-logo="https://picon.ml/tnt-music.png" group-title="TricolorTV", THT Music
+http://212.0.215.115/THTMusic/mpegts
+#EXTINF: -1 tvg-logo="https://picon.ml/busuioc-tv-md.png" group-title="MTC", BusuiocTV
+http://212.0.215.115/Busuioc/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/22.png" group-title="Ungrouped", Favorit TV
+http://212.0.215.115/Favorit/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/7/70/Etno_logo2021.png" group-title="Ungrouped", Etno TV
+http://212.0.215.115/EtnoTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Taraf_TV_logo_2017-present.png" group-title="FFmpeg", Taraf TV
+http://212.0.215.115/TarafTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/517.png" group-title="FFmpeg", Tezaur Folc
+http://212.0.215.115/TezaurFolc/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/585.png" group-title="Atomic_TV", Atomic TV
+http://212.0.215.115/Atomic/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.radionoroc.md/bundles/xabensite/images/logo.png" group-title="Ungrouped", Radio Noroc
+http://212.0.215.115/NorocFM/playlist.m3u8
+#EXTINF: -1 tvg-logo="data:image/jpeg;base64,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" group-title="Ungrouped", MEGA HIT FM
+http://212.0.215.115/MuzFM/playlist.m3u8
+#EXTINF: -1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAABOCAMAAADxYpiGAAAAclBMVEUAAAD///9mZmbMzMwzMzMJCQn8/PyZmZn5+fn29vbS0tIPDw8SEhI8PDwtLS2Hh4ft7e2lpaXh4eEeHh4YGBjDw8MkJCTY2NhXV1dOTk5ycnJUVFR4eHi6urrq6upISEixsbGNjY2cnJy9vb1+fn5paWlWKvzIAAASgUlEQVR4nO1c2bKjOBJFgFhswIDNamOwL/7/X5zMlAQSCHdFTUdM90Tp4ZbNIilPntwkuRznT/vT/rSDVt+ds+v6Tuq658R1707nuil8cOvdo668c87gAz7ncPyQtV+65z60ZP1+xe+WR276lczXGhfXxsLzpk7OWb+P84SHrvLjVrx+8jzv1fGvIDxKhwfs7cyMdTxiMQ8Zq3jMWLh9MmOMfVwmHumdkj0dn7GHc4m+jDDCS+yyfq/ga2A+3+Mjg36lZFrLSJaT+HJK8duk3y/gwvKlnM96R12lbuSvxDluE0ypYSfnztiMU0w7mOWtgP52cIH8CYw/wfPMT3DiAMnoFMy39KtLuHZ1XeVaWoOXgus3ELJcfYtcRyBpBwHGWju/DvpzuXs8yyeMUoByQKjKuYDW+BPU6wfbqdLQlyRirK2hR6dF0N6MJXB9PO6+oAksKD3oq2E/qZjjbMxpA4KnfW/3IHD9e6N4lubMbDtuqwbvu6jQzjmxIElRay+QERn/2DwZsJIXeO+CbIBPKajs5IDpfAGB1Lzaw2knsITJIJ4xewDhjv/GniDIy3EMDQMIZ0NWOe80VhRo1J3X0Sxj8AdXvA+ifZCIXQ3aDs8nENRoIwu6lAQCRd1B9BzfC1GTW84YyOkSZmIyes+JmquGJIJwcmUDW35JMFJQ1Afug092CYg3fBglCJXr9tU6WCIg+3HR5fqXWLHI2ip86QR/wMl56B5PCAdrr2VuPnhhH+y45B8cB8jzRnJ38Cc+xEBxXdnDRTJWe6LXNKqDoAMFtBTelFcLVNSVjBbJQnai1Xn5FC9S3wQ+By4cBKlR9pHc3Q0QcznIGnVXz1TwdL8hr+5Jjoyr8A0P2ACfBnvP2FwpobQH6fH0cIIGkqMTiFe/HmxA6Bcury/qIFwXEMhwMFLW2EegsYuTX+nt07wGYKIZDvpBbQAmz6sPBhF9+NV48FY3NBQGDu6jOjP8mgTsi9sNJQiCoooXmv3QpZD4/lkubk2m1m1dByHdguAqEF47H4BWbnBQbwPeqSD6cVBxyhtME+74wmRG1h7NauIumdYP+tMQad7rKty1xY/7OiTsvjzwJllIb54BQjmvPkE8xd46ma0gkJ7IOvFDZGRgYnSb+0p8jHUj/nkgC06U3RS8i9kmUyBoCz5GyJcW2QCmU+FoE3iqIxCQ595iD2gN5NCW8HCOhXomzXEYYV9MOxEOvtLUsgPh6XkiqsB8RNDcmGm6p5O8UTjgAQb8k5+RBT31PvGsWcegBrYb9Q5S5MSvT2TDCzXa4lNjYemaMKZxPclDmgVF7+X5j4SkM9i7A8GpRepwWnW7A0G1AC/WC/BrI2BsM/0AZT6oAxffGcmXIPdONXdLPZ6fAzbVmCGAy+AnhBtszENsTqDH0wEIlDR3vVQzvY2WxJbn0S1SsogkyRXd9yAIogP/lvLgonHHAIE8lI+ftl4wPgAhBNEhRSRaBz4qN6+J+fGDO67mWPxX5nQ45eaK3C0TER9apEQWBAehhxRdXwOhZhQ0pN4j1auiL8an1VVYQHASkTU+lc0cgFAJy8xsIERHTACHiL6gRa42Z15R8t3j4/nFcIz8Q7qoEg4Y5JmIJRxTRogXnqVrgTH5KVR+KSY2CgeerfeF6OQalREv0BgTEKllmWgg6OYQ0V2pjcRiDnTtbZklSPHCP88EJzQ5CSg7Hp2MYI/DFYaZnE7cOwngFHQORFHxzuhAnXGUN1eC+iT3iNPOpfaFzjl1eoIa2fMitlZRVhAgpQk0MXYgFJSSqziLPqQyX29t7JB3ogzd0uSgpYfODcQPZu58KK9ZfGmC40fF1RkbysPAUUUpmnyIkla2nrFJJ0ip8bsRElAmLbzNnW3a/BUEAWaU7EAQGSMWfewpqYC0CczqttIouGkkwoQQ1jkChWxnDai2BTh+1FMdVuQ3B0tsNMtriRYEQaI8A4zBUSl9VUBOiq5osc0i4sA2rVyx24AgZKN8od2BQLVDKIxL4kj4GsohItjstuNOFoHkUBQAxUexlEKs+wHCXvs1lF1gvPpFlc3VyUocDGossIPbE33ex9K5Cg5qAsIaBCKUuV2DLQjSrnYg+JWYiRbqdyBcHMz50ccRaKUAZu0iXwE02zRjb3HmpBGLfUIBEpJMFBuzQZ3kTnrLQdx7Tk7xhwYZ0Bn5gXXdhlYP0M6TSMgYqulTOKGI0HiykUkXNhBuSADyIgSmawfhJTuUggvcC5nN8geVkdZQ3kQ1VhYNkpo9a1qHKKHnu4jKz0KOwmcRoILw7CRvMWJBE31QclIZedXSyHgE2gKEdJkeAtysinOMr6S0UoJTC9mi+Zq0lDL5dhBC6WgjmUoIW8vD9HYeH2IdI7ba7QXSP/QFJA1mIrSWN8EMuynQrEp4sKZPHN7DQLHrcIDihzsdll9YTVvrBxRLuBVXM3lf8jLdEJZ481lAUC2T1FatUlPfgyDKTWnD5xPbtMCe3UOiDO+CJIJL4PL4ixQOHE4eQ6yKXlx8fcGIvMX5NBkFytMZ1/4APwiXVp/AZZLkyOgiP1P6Oksvp+nmulRR25WlMdIk0ZcmtiAQXOqJm7EKB6o7qnCyGI2tp0m5EarYyYhHPy7qNp1F5L6nCEYa4uye+AwM5iUYKIFJZ6qhLI1ULuvsSpO4JHXhirbprX/UM1sQnHZBIVcpyT5E4idKUVXOxS+x1s+PZUGensLYh4YiVhTRI7xB9lSkSpO+9cDHC/mJHHIIp42xxnLqkpVXqsXtxXSKJi29awsf1eRC+Fw4I941vPUdryCnKk9rNAlfOJX8tUzpg/eUzvEzBQ0+aGPCjYu0pHg6XAdF1j9IkJCQRI/wRDfcFQLD50Bh1y+kfXkPcFw+5lOI2ZPqmRDLDac4wPlva7fRbf3vWyjWVqeue//2YulxdOHNjVAA3fIZeFchyXg7EQUplonFkBPZRo0uH1UABQbCN7M4Rcf3ZcX5n90mNuHiJTuBfvuAgmONHqGi5Rye9u8TCdd4734k7zC+I7GNgeVMdSMMRnSN+W8o6Z/RIEW4oB1hfeyM4BFeaPBE/cGVAVzLgsaQFkSxrELDwdWukEUdLnkcRJ9/RUsa9N5QLjzBl1wnin643EQB7ee1GmHWzRNlKk0PTpC/wBTAd0CgRB5cm6NV3L+51Wn3Zcfv97staf5vsUJ/L1lEofE2LxtfUL8/VIAqCzQOfq9wd4YCJe783Zpt5a7a3dVbu+4byys7E0rFdauT7YSTYs9Q3h5de0NJkoN77g7EFwrypLprDljIUcXBHItBknsowssodgvy6UPXef+cTrQ5fI+ZdyMeYBJ0uW67V5tuehPp3k1+25UzEnoLppme+Yh18F0NqlIJZ9nq2rfdTlxZceIC3hhLIrjjn8EUfnopkT+6l5GHbrecEsB8aUY40XgQN6ADzvljCw9HIIxKmM3z9cF1oEFsdFNud2n1Fn8DYbcpO0YDSHE7kYtLANgBdU2ZMase4zYDqtuCMkY8AsDnmD1R7C6n3cE2+Nn2/gWEh5ruxh7kLt1+i+S+Lboxw9v3LhH6BsKeZDB1TjHSQ81DtRlheHBaSbSmuLju6PtoqWEldNF88ImuEZyESiNHy3CDyhYij0Ao1NeNPahCabtuW2832XE99BCE4hsIFr62AVo1h6QPTQHrdrFicb6/y30H0SCXGKAEavAFCJQNkucRDNY04QiEZa98Mh5fdum2pz5s1l8cmsP4BYTdyROk+z0qccD7Uyw/+FXnnKWLS1L3hed9yhj+VGHfCafMW0gJPKwgHDdmBae8if75ZRD4Qm7THpZdug1DFnDiKRwWUvgHIFBNdgTCLpQPCFmax0SCgeW9nFHJhva2fVjN55UrRkGZRXXGzSPPmpz2IVyCMIVLI6L566QMaVfSm5arrIf0lChahJkZ/NRTlLbxTfyUM3nuNHWJcAq1jPKfmJWi7J1pfzB0fXPJzO/mAe+IDcFskpNKn3SM6No896WkHHq76uQuwrJJuzzaLy/gqIuy1633HDQibNs1OiAClgvo2CFfpNozecW0ykzFk/CCEdoBNLAK6SKaWSQR74B5lDi9gpL2/srGkuEcgPBapdXt4b1eNgRU1FYDdPK7qVUF4d2xNGlo1gLHDYgEfRyRjV/DaMkl/L7wTJ/sDfOouFGzEw2WNmwSdBhsK60HIPxova72wLXhjPAwboGJTVCMTq1LqYoIs+0m5CAVlccDExZd098l9+MiPEKutB62TIj1NHcIkE/68IjsB8MOQNAPp617g5121QgP8sa6idBYQFDO03oqSVIv3xtsi2hnDaU8TgvhYel0Kl+jvTLO+oEtcLhPqiCcZCKv4Hx2Y9hBSHRpV3so9Mu6LDsmSBAN7k3bh/QB40MivClD4m92wXkkYUTLq9jEamrxcNNlnSrx7yJfipXq7g1rSLq0bFBvvMh3FmEHYWQ2cblhfHp4UD5BsUMm18a5MhVwrCeHZCIa2yz2Ira527gRphBGsdp7vLZhw3Ytnx7LRCrW0ICQaGEFAXnT81dCJHrij7gqkwUFqiS9tN5J70bCc5KkkQ7UyNMlEXa5EDZFBPspxjanlfL6h4nt52uo794nnXsJ1ZJnEX5cfUMqFRAAaZ4Ul8G5WFILe7IkXXUh5FX2IK1B/mPQWh1lHoips/ymH7xRZLESQb4QH+Q+fimKUjfP7ZuJf9H8KhDwXewrCnYQZFHsStnkLr1y+QIaIzyonUyWF49wqS/00l2dirV5snN+TARyg+dJ+MXzJS41FB/Va7/6ALkhpEuaiiBfqogdyZATHXav2EGQ4voyZxLsu6v78h2jL4tpskmXRZqWdX1LEiGyrHc44USwtflbmMIrbhYYsoFOnRVgxLhSg0VkGA6og9PCmKyQuQJElokG+OwUsQfhtJytCbjYlZL2UCgx5Acj1I377WsDJekl9kmxszpcexCfhT+8VvIM/Hl+ailn3b4qo5CMveKjuXmXDaKGqAeqICDM7PMlKxPWiCcTXXxdWkNwU4ozzavfdaS7xa9EkGsXgY0Iju7cKgEr3xfb+KuU1Pf3PWSyqJ7jN6UHdWWJwnsQhmVWxRIm0B7ui2jy02T25EabjvSpht+IIJMK21klaskk/C1/5MNvreLyPpf49aVt80WC4Bq/1ZF8B+d+W+1BXnSXLGCb9fjmmoJ+BkUlxbZzmopDgXXtVqDWSjIkYTzoKU3bFJ9x8x7328uPfkgUIZAmURXJ2ukOBDNZ8lZVyjhxX6wBe7GEBwHDY1rzKR3yl7hkSYqdZVffftq0ozzROYeD4PX5c1odI1SU5AaflCGAT4R/A3QL4brHUhe5PMLB50Zc7rZDWUGQwQGj9mIPrWYDtvCgmqoQdI9wO06K18Ts4BcZbiU0nXrqoF5aGFhy33VnQKDAhO/luqPpGOZevtaWVEE4/PLe6sIGgqQ7HWCRgSLmMmWgkGALD8ugbN+jJII1KVZEmOwYoFuX3tRtHr+/kXg/ycKrHvZewQZCp+tS2kMba3JYw4NoKgGetGuKCNZsTS3fHP80x+kr5eLLi/Xg1V81/mkmGVj2NHDsIEgZRf4m3ZaxdNQdK08q3TCVb0Rw/ooI2OrpJThwe5WhgVYWe++5XX6aWfv+6IY/pRForpfyLeXrLDRw7CCsccDZnMyWFiDtxVILKaUbFc636kgR4SD0+dICxkp6Q+5OjV5hjO7LXFpqpktr4DRXai+xLlRvmwrEBkJjXNM311QpJSPF3kSl0o1wJ8tka1KsxprsGACCF8njvlIe/2z1DMn6S93NDfmv/w4FevyyXd+zgKCW22WXeio4mW/t1KfyAZ2OigjWpFgVXl9yoLtcYuePwbo4+WutHZQ7Gfc/xLWA4Jtk1+1BzeIoPIQWpX+rjtTwX36nhmSQ45wf1ee34gPvPfXb5PpyvCFrpGEbhq72sCy0ybx66+5rCxFUdUTXbmHM4vcKhzo+bj1nujY/VExph9B8lseN9w4vavOih3zB80zGXF+Nwi6ZrShaQJB2vfix1R4Wd3cQHmSpaHgEPSnmYrRyiVIyNT08gr+0doHB3x0woJXmmVbF8IeouyrqdZeCn/uDCGsBYdhwfbWHJRm1h4d6sxyHTVVHdE0mh8u5UrV6/Qsnyngf/lbttLbrZT5KMgqxNqcPMIlL2fYZT9vWlmt6Jrdmb/smyKlf6+UXVUeF4uv0S0Lwz/u/OHWVvX4vz/rntXvY7/O93f9Lke2lTef9uaN/b7v27hYGN5wmXG2GEhL/HcJwi0r3+AvH+6f9aX/a/1Mb3bv4L34SsT74v57P/6Rx31/Pu9wtK85/2p/2b2//AR48/KhSewEIAAAAAElFTkSuQmCC" group-title="Ungrouped", Maestro FM
+http://212.0.215.115/MaestroFM/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8wwr76x5jYv5eyyE2L2bqXdfrxau8NpF-A&usqp=CAU" group-title="Ungrouped", Publika FM
+http://212.0.215.115/PublikaFM/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTggOFTBIO45KYJW7yStD8QEZUTx88nT5XaBZFM=s900-c-k-c0x00ffffff-no-rj" group-title="DVL", Elita TV SD
+http://212.0.215.115/ELITATV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/601.png" group-title="Regionale", Sortv SD
+http://212.0.215.115/SorTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/598.png" group-title="Encoder", StudioL SD
+http://212.0.215.115/StudioL/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/600.png" group-title="MTC", DrokiaTV SD
+http://212.0.215.115/Drochia/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://cdnedge.starnet.md/media/grid/8aad4974-324d-4dfa-b1c1-b619e01cd004.png" group-title="TV Prim", TV Prim (suspendat)
+http://212.0.215.115/TVPrim/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/599.png" group-title="DVB", MediaTV
+http://212.0.215.115/MediaTV/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://www.arax.md/assets/channels/245.png" group-title="Ungrouped", Regional
+http://212.0.215.115/Regional/mpegts
 
-
-#EXTINF:-1 tvg-name="MMA TV HD" group-title="Спортивные", MMA TV HD
-#EXTGRP:Спортивные
-https://sc.id-tv.kz/M-1_34_35.m3u8
-#EXTINF:-1 tvg-name="Viasat Sport" group-title="Спортивные", Viasat Sport
-#EXTGRP:Спортивные
-https://sc.id-tv.kz/ViasatSport_34_35.m3u8
-#EXTINF:-1 tvg-name="Астрахань.Ru Sport HD" group-title="Спортивные", Астрахань.Ru Sport HD
-#EXTGRP:Спортивные
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Старт Триумф HD" group-title="Спортивные", Старт Триумф HD
-#EXTGRP:Спортивные
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-#EXTINF:-1 tvg-name="Eurosport 1 RO" group-title="Спортивные", Eurosport 1 RO
-#EXTGRP:Спортивные
-http://212.0.215.106/Eurosport1/mpegts
-#EXTINF:-1 tvg-name="SETANTA SPORTS 1 HD" group-title="Спортивные", SETANTA SPORTS 1 HD
-#EXTGRP:Спортивные
-https://livetv.mylifeisgood.ml/channels/setantahd
-#EXTINF:-1 tvg-name="Setanta Sports 2 HD" group-title="Спортивные", Setanta Sports 2 HD
-#EXTGRP:Спортивные
-https://livetv.mylifeisgood.ml/channels/setantaplus
-#EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="Спортивные", Eurosport 1 HD
-#EXTGRP:Спортивные
-https://livetv.mylifeisgood.ml/channels/eurosport1ru
-#EXTINF:-1 tvg-name="Eurosport 2 HD" group-title="Спортивные", Eurosport 2 HD
-#EXTGRP:Спортивные
-https://livetv.mylifeisgood.ml/channels/eurosport2
-#EXTINF:-1 tvg-name="Viasat Sport HD" group-title="Спортивные", Viasat Sport HD
-#EXTGRP:Спортивные
-http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Спортивный HD" group-title="Спортивные", Спортивный HD
-#EXTGRP:Спортивные
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Матч Премьер HD" group-title="Спортивные", Матч Премьер HD
-#EXTGRP:Спортивные
-https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Телеканал Футбол" group-title="Спортивные", Телеканал Футбол
-#EXTGRP:Спортивные
-http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="360 International" group-title="Познавательные", 360 International
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/360_34_35.m3u8
-#EXTINF:-1 tvg-name="TV BRICS HD" group-title="Познавательные", TV BRICS HD
-#EXTGRP:Познавательные
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="Terra HD" group-title="Познавательные", Terra HD
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Nat_geo_HD.ts
-#EXTINF:-1 tvg-name="Travel & Adventure HD" group-title="Познавательные", Travel & Adventure HD
-#EXTGRP:Познавательные
-http://45.142.213.81:8001/playlist.m3u8
-#EXTINF:-1 tvg-name="Viasat History" group-title="Познавательные", Viasat History
-#EXTGRP:Познавательные
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature" group-title="Познавательные", Viasat Nature
-#EXTGRP:Познавательные
-https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Авто 24" group-title="Познавательные", Авто 24
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/Avto24_36_37.m3u8
-#EXTINF:-1 tvg-name="Домашние животные" group-title="Познавательные", Домашние животные
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Dom_jiv.ts
-#EXTINF:-1 tvg-name="Драйв" group-title="Познавательные", Драйв
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Drive.ts
-#EXTINF:-1 tvg-name="Загородная Жизнь" group-title="Познавательные", Загородная Жизнь
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/Zagorod_34_35.m3u8
-#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="Познавательные", Здоровое ТВ
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Zdorovoe.ts
-#EXTINF:-1 tvg-name="Зоопарк" group-title="Познавательные", Зоопарк
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/zoo.ts
-#EXTINF:-1 tvg-name="История" group-title="Познавательные", История
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Istoria.ts
-#EXTINF:-1 tvg-name="Министерство Идей" group-title="Познавательные", Министерство Идей
-#EXTGRP:Познавательные
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Моя Планета" group-title="Познавательные", Моя Планета
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Moya_pl.ts
-#EXTINF:-1 tvg-name="Наука" group-title="Познавательные", Наука
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Nauka.ts
-#EXTINF:-1 tvg-name="Охота и Рыбалка" group-title="Познавательные", Охота и Рыбалка
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Ohota_i_rib.ts
-#EXTINF:-1 tvg-name="Просвещение" group-title="Познавательные", Просвещение
-#EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Психология" group-title="Познавательные", Психология
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Psih_21.ts
-#EXTINF:-1 tvg-name="Совершенно Секретно" group-title="Познавательные", Совершенно Секретно
-#EXTGRP:Познавательные
-http://live-sovsec.cdnvideo.ru/sovsec/sovsec_orig/playlist.m3u8
-#EXTINF:-1 tvg-name="Спас" group-title="Познавательные", Спас
-#EXTGRP:Познавательные
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Усадьба" group-title="Познавательные", Усадьба
-#EXTGRP:Познавательные
-http://tv.tuva.ru/usadba/index.m3u8
-#EXTINF:-1 tvg-name="Discovery HD" group-title="Познавательные", Discovery HD
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.ml/channels/discovery.m3u8
-#EXTINF:-1 tvg-name="Discovery Science HD" group-title="Познавательные", Discovery Science HD
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery HD" group-title="Познавательные", Investigation Discovery HD
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
-#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Познавательные", Animal Planet HD
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.ml/channels/animalplanethd
-#EXTINF:-1 tvg-name="HD Life" group-title="Познавательные", HD Life
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Познавательные", Animal Planet
-#EXTGRP:Познавательные
-http://212.0.215.106/AnimalPl/mpegts
-#EXTINF:-1 tvg-name="EXPLORER" group-title="Познавательные", EXPLORER
-#EXTGRP:Познавательные
-http://212.0.215.106/Explorer/mpegts
-#EXTINF:-1 tvg-name="TLC" group-title="Познавательные", TLC
-#EXTGRP:Познавательные
-http://212.0.215.106/TLC/mpegts
-#EXTINF:-1 tvg-name="Discovery Channel" group-title="Познавательные", Discovery Channel
-#EXTGRP:Познавательные
-http://212.0.215.106/Discovery/mpegts
-#EXTINF:-1 tvg-name="DTX HD" group-title="Познавательные", DTX HD
-#EXTGRP:Познавательные
-http://212.0.215.106/DTX/mpegts
-#EXTINF:-1 tvg-name="TRAVEL" group-title="Познавательные", TRAVEL
-#EXTGRP:Познавательные
-http://212.0.215.106/Travel/mpegts
-#EXTINF:-1 tvg-name="National Geographic" group-title="Познавательные", National Geographic
-#EXTGRP:Познавательные
-http://212.0.215.106/NAT-GEO/mpegts
-
-
-
-
-
-#EXTINF:-1 tvg-name="Кино ТВ HD" group-title="Кино", Кино ТВ HD
-#EXTGRP:Кино
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1 tvg-name="TV 1000" group-title="Кино", TV 1000
-#EXTGRP:Кино
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Action" group-title="Кино", TV 1000 Action
-#EXTGRP:Кино
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Русское кино" group-title="Кино", TV 1000 Русское кино
-#EXTGRP:Кино
-https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="VIP Comedy" group-title="Кино", VIP Comedy
-#EXTGRP:Кино
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit" group-title="Кино", VIP Megahit
-#EXTGRP:Кино
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="VIP Premiere" group-title="Кино", VIP Premiere
-#EXTGRP:Кино
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="VIP Serial" group-title="Кино", VIP Serial
-#EXTGRP:Кино
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Кинохит" group-title="Кино", Кинохит
-#EXTGRP:Кино
-http://212.0.215.106/Kinohit/mpegts
-#EXTINF:-1 tvg-name="Кинокомедия" group-title="Кино", Кинокомедия
-#EXTGRP:Кино
-http://212.0.215.106/Comedia/mpegts
-#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино", Amedia 1
-#EXTGRP:Кино
-https://sc.id-tv.kz/A1_34_35.m3u8
-#EXTINF:-1 tvg-name="Cinema" group-title="Кино", Cinema
-#EXTGRP:Кино
-http://195.26.83.96:50001/1
-#EXTINF:-1 tvg-name="Backus TV" group-title="Кино", Backus TV
-#EXTGRP:Кино
-https://playlist.wasd.tv/live/1626710/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Backus TV Dark" group-title="Кино", Backus TV Dark
-#EXTGRP:Кино
-https://playlist.wasd.tv/live/1626849/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Kino Watch TV Доку" group-title="Кино", Kino Watch TV Доку
-#EXTGRP:Кино
-https://edge-01.kino.watch/docu/index.m3u8
-#EXTINF:-1 tvg-name="Kino Watch TV Свежаки" group-title="Кино", Kino Watch TV Свежаки
-#EXTGRP:Кино
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:-1 tvg-name="Kino Watch TV Ужастики" group-title="Кино", Kino Watch TV Ужастики
-#EXTGRP:Кино
-https://edge-01.kino.watch/horror/index.m3u8
-#EXTINF:-1 tvg-name="FAN" group-title="Кино", FAN
-#EXTGRP:Кино
-http://tv.tuva.ru/fan/index.m3u8
-#EXTINF:-1 tvg-name="Film Box" group-title="Кино", Film Box
-#EXTGRP:Кино
-http://tv.tuva.ru/film_box/index.m3u8
-#EXTINF:-1 tvg-name="Flix Snip" group-title="Кино", Flix Snip
-#EXTGRP:Кино
-https://sc.id-tv.kz/FlixSnip.m3u8
-#EXTINF:-1 tvg-name="Дом Кино" group-title="Кино", Дом Кино
-#EXTGRP:Кино
-http://78.25.155.47:1309/channel/DOM_kino.ts
-#EXTINF:-1 tvg-name="НТВ Право" group-title="Кино", НТВ Право
-#EXTGRP:Кино
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Кино", НТВ Сериал
-#EXTGRP:Кино
-http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="НТВ Хит" group-title="Кино", НТВ Хит
-#EXTGRP:Кино
-http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="НТМ HD (Мордовия)" group-title="Кино", НТМ HD (Мордовия)
-#EXTGRP:Кино
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name="Русский Детектив" group-title="Кино", Русский Детектив
-#EXTGRP:Кино
-http://78.25.155.47:1309/channel/rus_d.ts
-#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Кино", Русский Иллюзион
-#EXTGRP:Кино
-http://78.25.155.47:1309/channel/Rus_illuz.ts
-#EXTINF:-1 tvg-name="Русский Роман" group-title="Кино", Русский Роман
-#EXTGRP:Кино
-http://78.25.155.47:1309/channel/Rus_rom.ts
-#EXTINF:-1 tvg-name="Феникс+Кино" group-title="Кино", Феникс+Кино
-#EXTGRP:Кино
-http://78.25.155.47:1309/channel/Feniks.ts
-#EXTINF:-1 tvg-name="Премиальное" group-title="Кино", Премиальное
-#EXTGRP:Кино
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="312" group-title="Кино", 312
-#EXTGRP:Кино
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-name="312 Kino" group-title="Кино", 312 Kino
-#EXTGRP:Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-name="43 канал HD" group-title="Кино", 43 канал HD
-#EXTGRP:Кино
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="6 ТВ Горловка" group-title="Кино", 6 ТВ Горловка
-#EXTGRP:Кино
-http://ott.inmart.tv:8081/223/index.m3u8
-#EXTINF:-1 tvg-name="8 Канал" group-title="Кино", 8 Канал
-#EXTGRP:Кино
-http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-name="8 Канал Европа" group-title="Кино", 8 Канал Европа
-#EXTGRP:Кино
-http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-name="8 Канал Новосибирск" group-title="Кино", 8 Канал Новосибирск
-#EXTGRP:Кино
-http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Star Cinema" group-title="Кино", Star Cinema
-#EXTGRP:Кино
-http://212.0.215.106/StarCinema/mpegts
-#EXTINF:-1 tvg-name="Star Family" group-title="Кино", Star Family
-#EXTGRP:Кино
-http://212.0.215.106/StarFamily/mpegts
-#EXTINF:-1 tvg-name="FilmUaDrama" group-title="Кино", FilmUaDrama
-#EXTGRP:Кино
-http://212.0.215.106/FilmUaDrama/mpegts
-#EXTINF:-1 tvg-name="Fox" group-title="Кино", Fox
-#EXTGRP:Кино
-http://212.0.215.106/Fox/mpegts
-#EXTINF:-1 tvg-name="Fox Life" group-title="Кино", Fox Life
-#EXTGRP:Кино
-http://212.0.215.106/FoxLife/mpegts
-
-
-
-#EXTINF:-1 tvg-name="Trаsh" group-title="Кино", Trаsh
-#EXTGRP:Кино
-https://livetv.mylifeisgood.ml/channels/trash.m3u8
-#EXTINF:-1 tvg-name="XXI" group-title="Кино", XXI
-#EXTGRP:Кино
-http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-name="Иллюзион+" group-title="Кино", Иллюзион+
-#EXTGRP:Кино
-http://78.25.155.47:1309/channel/Illuz_plus.ts
-#EXTINF:-1 tvg-name="Абаза ТВ" group-title="Кино", Абаза ТВ
-#EXTGRP:Кино
-http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
-#EXTINF:-1 tvg-name="Аист ТВ" group-title="Кино", Аист ТВ
-#EXTGRP:Кино
-http://tv.streams.baikal-telecom.net/Aist/video.m3u8
-#EXTINF:-1 tvg-name="Арис 24" group-title="Кино", Арис 24
-#EXTGRP:Кино
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-name="КТК HD" group-title="Кино", КТК HD
-#EXTGRP:Кино
-http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
-#EXTINF:-1 tvg-name="Камчатка 1 HD" group-title="Кино", Камчатка 1 HD
-#EXTGRP:Кино
-http://77.82.82.244/kamchatka1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Красная линия ТВ" group-title="Кино", Красная линия ТВ
-#EXTGRP:Кино
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Краснодар ТВ [HD]" group-title="Кино", Краснодар ТВ [HD]
-#EXTGRP:Кино
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-name="Лен ТВ 24 HD" group-title="Кино", Лен ТВ 24 HD
-#EXTGRP:Кино
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-name="Липецкое Время" group-title="Кино", Липецкое Время
-#EXTGRP:Кино
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 tvg-name="Мир Белогорья HD" group-title="Кино", Мир Белогорья HD
-#EXTGRP:Кино
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-name="Наши Города HD" group-title="Кино", Наши Города HD
-#EXTGRP:Кино
-https://kogalimtv.servicecdn.ru/streams/775_101/1080n/index.m3u8
-#EXTINF:-1 tvg-name="Ника TV (Калуга)" group-title="Кино", Ника TV (Калуга)
-#EXTGRP:Кино
-http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Новый Век HD" group-title="Кино", Новый Век HD
-#EXTGRP:Кино
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-#EXTINF:-1 tvg-name="Обком ТВ" group-title="Кино", Обком ТВ
-#EXTGRP:Кино
-http://www.omsk-kprf.ru/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Оплот 2 HD" group-title="Кино", Оплот 2 HD
-#EXTGRP:Кино
-http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1 tvg-name="ПРНК" group-title="Кино", ПРНК
-#EXTGRP:Кино
-http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
-#EXTINF:-1 tvg-name="Севастополь ТВ" group-title="Кино", Севастополь ТВ
-#EXTGRP:Кино
-http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="1HD Music TV" group-title="Музыка", 1HD Music TV
-#EXTGRP:Музыка
-http://live-1.otcnet.ru/onehdweb/index.m3u8
-#EXTINF:-1 tvg-name="Bridge TV" group-title="Музыка", Bridge TV
-#EXTGRP:Музыка
-https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
-#EXTINF:-1 tvg-name="Bridge TV Русский Хит" group-title="Музыка", Bridge TV Русский Хит
-#EXTGRP:Музыка
-https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Музыка", Europa Plus TV
-#EXTGRP:Музыка
-http://78.25.155.47:1309/channel/Evropa_plus.ts
-#EXTINF:-1 tvg-name="Music Box Gold" group-title="Музыка", Music Box Gold
-#EXTGRP:Музыка
-http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
-#EXTINF:-1 tvg-name="Music Box Russian" group-title="Музыка", Music Box Russian
-#EXTGRP:Музыка
-http://musictv.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
-#EXTINF:-1 tvg-name="RU TV HD" group-title="Музыка", RU TV HD
-#EXTGRP:Музыка
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-name="Муз ТВ" group-title="Музыка", Муз ТВ
-#EXTGRP:Музыка
-http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1 tvg-name="Первый Музыкальный" group-title="Музыка", Первый Музыкальный
-#EXTGRP:Музыка
-http://rtmp.one.by:1200
-#EXTINF:-1 tvg-name="Первый Музыкальный HD" group-title="Музыка", Первый Музыкальный HD
-#EXTGRP:Музыка
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-name="ТНТ Music HD" group-title="Музыка", ТНТ Music HD
-#EXTGRP:Музыка
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="Backus TV Music" group-title="Музыка", Backus TV Music
-#EXTGRP:Музыка
-https://playlist.wasd.tv/live/1626854/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ZonaM" group-title="Музыка", ZonaM
-#EXTGRP:Музыка
-http://212.0.215.106/ZonaM/mpegts
-#EXTINF:-1 tvg-name="Taraf TV" group-title="Музыка", Taraf TV
-#EXTGRP:Музыка
-http://212.0.215.106/TarafTV/mpegts
-#EXTINF:-1 tvg-name="Noroc TV" group-title="Музыка", Noroc TV
-#EXTGRP:Музыка
-http://212.0.215.106/NorocTV/mpegts
-#EXTINF:-1 tvg-name="Busuioc TV" group-title="Музыка", Busuioc TV
-#EXTGRP:Музыка
-http://212.0.215.106/Busuioc/mpegts
-#EXTINF:-1 tvg-name="StudioL" group-title="Музыка", StudioL
-#EXTGRP:Музыка
-http://212.0.215.106/StudioL/mpegts
-#EXTINF:-1 tvg-name="Favorit TV" group-title="Музыка", Favorit TV
-#EXTGRP:Музыка
-http://212.0.215.106/Favorit/mpegts
-#EXTINF:-1 tvg-name="Etno TV" group-title="Музыка", Etno TV
-#EXTGRP:Музыка
-http://212.0.215.106/EtnoTV/mpegts
-#EXTINF:-1 tvg-name="Ru TV Moldova" group-title="Музыка", Ru TV Moldova
-#EXTGRP:Музыка
-http://212.0.215.106/RuTV/mpegts
-#EXTINF:-1 tvg-name="U TV" group-title="Музыка", U TV
-#EXTGRP:Музыка
-http://212.0.215.106/UTV/mpegts
-#EXTINF:-1 tvg-name="THT Music" group-title="Музыка", THT Music
-#EXTGRP:Музыка
-http://212.0.215.106/THTMusic/mpegts
+#EXTINF: -1 tvg-logo="https://cdnedge.starnet.md/media/grid/685427f3-64b7-4cb5-ae0d-0a46e6eb6ae5.png" group-title="DVL", NTS SD
+http://212.0.215.115/NTS/mpegts
+ 
+#EXTINF: -1 tvg-logo="https://cdnedge.starnet.md/media/attachments/edb623b1-b8dc-4c24-be5d-78493caf7e43.png" group-title="TELEIP", ATV SD
+http://212.0.215.115/ATV/mpegts
+ 
+#EXTINF:1, Chisinau
+http://212.0.215.115/IPcam1/mpegts
+#EXTINF:1, Cahul
+http://212.0.215.115/IPcam_Cahul/mpegts
+#EXTINF:1, Balti
+http://212.0.215.115/IPcam_Balti/mpegts
+#EXTINF:1, Soroca
+http://212.0.215.115/IPcam_Soroca/mpegts
+#EXTINF: -1 tvg-logo="https://fontmeme.com/temporary/b3bba3d59bca24d6a7583e96fd898b0a.png" group-title="Ungrouped", Ungheni
+http://212.0.215.115/Unghenilive/mpegts
+#EXTINF: -1 tvg-logo="https://fontmeme.com/temporary/8b25015e103876fc3530201fc49e6d09.png" group-title="Ungrouped", Orhei Land
+http://212.0.215.115/Orheilive/mpegts
+#EXTINF: -1 tvg-logo="https://fontmeme.com/temporary/f62a53a8f33937b275cd6428a927d4c1.png" group-title="Ungrouped", Donduseni
+http://212.0.215.115/Dondusenilive/mpegts
+#EXTINF: -1 tvg-logo="https://fontmeme.com/temporary/811a4f5192b6eba84510df4b63f8ffa8.png" group-title="Ungrouped", Drochia
+http://212.0.215.115/Drochialive/mpegts
