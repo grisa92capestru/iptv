@@ -1,4 +1,13 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#PLAYLIST: t.me/Karnei4
+#INFO:Парсер шаблона EDEM от Karnei4 мы в Телеграм: https://t.me/Karnei4
+#ICON:https://cdn.discordapp.com/attachments/821433902077968423/929425575699939358/EDEM-IPTV.png
+#BACKGROUND-IMAGE:https://Karnei4.github.io/s/png/fon-info_optimized.jpg
+#EXTINF:-1 tvg-logo="http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png",Скачан: 28.02 21:42
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13735/logo_128_1651661523.png" group-title="Общие",Соловьев Live
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=playlist.m3u
+
 #EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD 50
 https://edem-grisa92capestru-gmailcom.vercel.app?code=M6WDCRQD52W8ND&user=ionut&channelId=15131
 #EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD orig
