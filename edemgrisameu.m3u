@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD 50
-http://rhsbjv7k.tvclub.xyz/iptv/Z85TH89HDSVRLA/15131/index.m3u
+https://edem-git-master-grisa92capestru-gmailcom.vercel.app/Z85TH89HDSVRLA/grisa/15131/index.m3u
 #EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD orig
-https://edem-git-master-grisa92capestru-gmailcom.vercel.app?code=M6WDCRQD52W8ND&user=grisa&channelId=7253
+https://edem-git-master-grisa92capestru-gmailcom.vercel.app/Z85TH89HDSVRLA/grisa/7253/index.m3u
 #EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал HD
 https://edem-git-master-grisa92capestru-gmailcom.vercel.app?code=M6WDCRQD52W8ND&user=grisa&channelId=204
 #EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/146.png" tvg-rec="3",Первый канал orig
